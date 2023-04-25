@@ -1,0 +1,51 @@
+Lesson 1 Lab Student Instructions
+Lab 1: Setting Up the Virtual Environment with VMWare Workstation
+
+Objective:
+The goal of this lab is to guide students through setting up a virtual lab environment using VMWare Workstation. Students will create and configure virtual machines (VMs) that will be used in subsequent lab activities for hands-on experience in network security concepts.
+
+Instructions:
+
+Install VMWare Workstation
+
+Download and install VMWare Workstation on your laptop. You can obtain the software from the VMWare website (https://www.vmware.com/products/workstation-pro.html). Make sure to use the provided license key.
+Download Virtual Machine Images
+
+Download the following virtual machine images that will be used in the lab activities:
+Ubuntu Server: Download the latest Ubuntu Server ISO from the official website (https://ubuntu.com/download/server).
+Kali Linux: Download the latest Kali Linux ISO from the official website (https://www.kali.org/downloads/).
+Create Virtual Machines in VMWare Workstation
+
+Open VMWare Workstation and create the following virtual machines:
+Ubuntu Server:
+a. Click "File" > "New Virtual Machine."
+b. Choose "Custom" and click "Next."
+c. Browse and select the downloaded Ubuntu Server ISO.
+d. Configure the virtual machine with at least 2 GB of RAM and 20 GB of hard disk space.
+e. Name the virtual machine "Ubuntu Server" and complete the creation process.
+Kali Linux:
+a. Click "File" > "New Virtual Machine."
+b. Choose "Custom" and click "Next."
+c. Browse and select the downloaded Kali Linux ISO.
+d. Configure the virtual machine with at least 2 GB of RAM and 20 GB of hard disk space.
+e. Name the virtual machine "Kali Linux" and complete the creation process.
+Configure Network Settings
+
+Configure the network settings for the virtual machines to ensure proper connectivity and isolation for future lab activities:
+Ubuntu Server:
+a. Right-click on the "Ubuntu Server" VM and select "Settings."
+b. Go to the "Network Adapter" settings.
+c. Choose the "Custom" option and select a custom virtual network (e.g., VMnet2).
+d. Click "OK" to save the settings.
+Kali Linux:
+a. Right-click on the "Kali Linux" VM and select "Settings."
+b. Go to the "Network Adapter" settings.
+c. Choose the "Custom" option and select the same custom virtual network as the "Ubuntu Server" VM (e.g., VMnet2).
+d. Click "OK" to save the settings.
+Install and Configure Necessary Software
+
+Install and configure any necessary software on the Ubuntu Server VM, such as a web server, database server, or domain controller, based on the requirements of the subsequent lab activities.
+Verify Connectivity
+
+Power on the "Ubuntu Server" and "Kali Linux" VMs and verify that they can communicate with each other. You can use the "ping" command or any other network diagnostic tool to ensure proper connectivity.
+At the end of this lab, you should have a fully functional virtual environment with an Ubuntu Server and Kali Linux VM connected to a custom virtual network in VMWare Workstation. This environment will be used for hands-on activities in the following lab sessions.

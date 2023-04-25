@@ -1,0 +1,225 @@
+Network Attacks and Audits Outline
+Lesson 1: Introduction to Network Attacks
+
+Overview of network attacks
+Types of network attacks (e.g. DoS, DDoS, Man-in-the-middle, etc.)
+Understanding the motivation behind network attacks
+Lesson 2: Understanding Network Security Fundamentals
+
+Understanding network architecture
+Understanding network security protocols
+Identifying security threats to networks
+Lesson 3: Introduction to Network Auditing
+
+Overview of network auditing
+Understanding the purpose of network auditing
+Identifying the benefits of network auditing
+Lesson 4: Understanding Network Vulnerability Scanning
+
+Introduction to network vulnerability scanning
+Types of network vulnerability scanners
+Importance of vulnerability scanning in network auditing
+Lesson 5: Understanding Network Penetration Testing
+
+Introduction to network penetration testing
+Types of penetration testing
+Importance of penetration testing in network auditing
+Lesson 6: Understanding Wireless Network Security
+
+Introduction to wireless network security
+Types of wireless network security protocols
+Understanding wireless network vulnerabilities
+Lesson 7: Understanding Network Access Control
+
+Introduction to network access control
+Types of network access control
+Importance of network access control in network security
+Lesson 8: Understanding Firewall Technology
+
+Introduction to firewall technology
+Types of firewall technology
+Understanding firewall vulnerabilities
+Lesson 9: Understanding Intrusion Detection and Prevention
+
+Introduction to intrusion detection and prevention
+Types of intrusion detection and prevention systems
+Importance of intrusion detection and prevention in network security
+Lesson 10: Understanding Virtual Private Networks (VPNs)
+
+Introduction to virtual private networks
+Types of virtual private networks
+Understanding VPN vulnerabilities
+Lesson 11: Understanding Denial of Service (DoS) Attacks
+
+Introduction to DoS attacks
+Types of DoS attacks
+Understanding the impact of DoS attacks on networks
+Lesson 12: Understanding Distributed Denial of Service (DDoS) Attacks
+
+Introduction to DDoS attacks
+Types of DDoS attacks
+Understanding the impact of DDoS attacks on networks
+Lesson 13: Understanding Man-in-the-Middle Attacks
+
+Introduction to Man-in-the-Middle attacks
+Types of Man-in-the-Middle attacks
+Understanding the impact of Man-in-the-Middle attacks on networks
+Lesson 14: Understanding Packet Sniffing
+
+Introduction to packet sniffing
+Types of packet sniffing tools
+Understanding the impact of packet sniffing on networks
+Lesson 15: Understanding Phishing Attacks
+
+Introduction to phishing attacks
+Types of phishing attacks
+Understanding the impact of phishing attacks on networks
+Lesson 16: Understanding Social Engineering Attacks
+
+Introduction to social engineering attacks
+Types of social engineering attacks
+Understanding the impact of social engineering attacks on networks
+Lesson 17: Understanding Malware Attacks
+
+Introduction to malware attacks
+Types of malware attacks
+Understanding the impact of malware attacks on networks
+Lesson 18: Understanding Ransomware Attacks
+
+Introduction to ransomware attacks
+Types of ransomware attacks
+Understanding the impact of ransomware attacks on networks
+Lesson 19: Understanding SQL Injection Attacks
+
+Introduction to SQL injection attacks
+Types of SQL injection attacks
+Understanding the impact of SQL injection attacks on networks
+Lesson 20: Understanding Cross-Site Scripting (XSS) Attacks
+
+Introduction to XSS attacks
+Types of XSS attacks
+Understanding the impact of XSS attacks on networks
+Lesson 21: Understanding Cross-Site Request Forgery (CSRF) Attacks
+
+Introduction to CSRF attacks
+Types of CSRF attacks
+Understanding the impact of CSRF attacks on networks
+Lesson 22: Understanding Buffer Overflow Attacks
+
+Introduction to buffer overflow attacks
+Types of buffer overflow attacks
+Understanding the impact
+Understanding buffer overflow vulnerabilities
+Mitigating buffer overflow attacks
+Lesson 23: Understanding DNS Spoofing Attacks
+
+Introduction to DNS spoofing attacks
+Types of DNS spoofing attacks
+Understanding the impact of DNS spoofing attacks on networks
+Lesson 24: Understanding ARP Spoofing Attacks
+
+Introduction to ARP spoofing attacks
+Types of ARP spoofing attacks
+Understanding the impact of ARP spoofing attacks on networks
+Lesson 25: Understanding IP Spoofing Attacks
+
+Introduction to IP spoofing attacks
+Types of IP spoofing attacks
+Understanding the impact of IP spoofing attacks on networks
+Lesson 26: Understanding MAC Spoofing Attacks
+
+Introduction to MAC spoofing attacks
+Types of MAC spoofing attacks
+Understanding the impact of MAC spoofing attacks on networks
+Lesson 27: Understanding Port Scanning
+
+Introduction to port scanning
+Types of port scanning tools
+Understanding the impact of port scanning on networks
+Lesson 28: Understanding Network Sniffing
+
+Introduction to network sniffing
+Types of network sniffing tools
+Understanding the impact of network sniffing on networks
+Lesson 29: Understanding VLAN Hopping Attacks
+
+Introduction to VLAN hopping attacks
+Types of VLAN hopping attacks
+Understanding the impact of VLAN hopping attacks on networks
+Lesson 30: Understanding Network Enumeration
+
+Introduction to network enumeration
+Types of network enumeration tools
+Understanding the impact of network enumeration on networks
+Lesson 31: Understanding Zero-day Attacks
+
+Introduction to zero-day attacks
+Types of zero-day attacks
+Understanding the impact of zero-day attacks on networks
+Lesson 32: Understanding Advanced Persistent Threats (APTs)
+
+Introduction to advanced persistent threats
+Types of advanced persistent threats
+Understanding the impact of APTs on networks
+Lesson 33: Understanding Botnets
+
+Introduction to botnets
+Types of botnets
+Understanding the impact of botnets on networks
+Lesson 34: Understanding Web Application Attacks
+
+Introduction to web application attacks
+Types of web application attacks
+Understanding the impact of web application attacks on networks
+Lesson 35: Understanding SSL/TLS Attacks
+
+Introduction to SSL/TLS attacks
+Types of SSL/TLS attacks
+Understanding the impact of SSL/TLS attacks on networks
+Lesson 36: Understanding Wireless Access Point Attacks
+
+Introduction to wireless access point attacks
+Types of wireless access point attacks
+Understanding the impact of wireless access point attacks on networks
+Lesson 37: Understanding Network Access Attacks
+
+Introduction to network access attacks
+Types of network access attacks
+Understanding the impact of network access attacks on networks
+Lesson 38: Understanding Physical Security Attacks
+
+Introduction to physical security attacks
+Types of physical security attacks
+Understanding the impact of physical security attacks on networks
+Lesson 39: Understanding Network Forensics
+
+Introduction to network forensics
+Types of network forensics
+Understanding the importance of network forensics in network auditing
+Lesson 40: Understanding Incident Response
+
+Introduction to incident response
+Types of incident response
+Understanding the importance of incident response in network security
+Lesson 41: Understanding Security Information and Event Management (SIEM)
+
+Introduction to SIEM
+Types of SIEM
+Understanding the importance of SIEM in network auditing
+Lesson 42: Understanding Security Operations Center (SOC)
+
+Introduction to SOC
+Types of SOC
+Understanding the importance of SOC in network security
+Lesson 43: Understanding Threat Intelligence
+
+Introduction to threat intelligence
+Types of threat intelligence
+Understanding the importance of threat intelligence in network security
+
+Lesson 44: Conclusion and Recap
+
+Review of network attacks and networking auditing concepts
+Best practices for preventing and mitigating network attacks
+Importance of continuous monitoring and auditing for network security
+Note: These lesson topics are just a guideline and can be modified based on the specific needs and level of expertise of the audience. Also, some of the lessons may take more or less than an hour depending on the amount of content covered and the level of interaction and discussion during the session.

@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Network Attacks and Audits Outline",
+			"settings":
+			{
+				"buffer_size": 8102,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "Network Attacks and Audits Outline"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAA/R8AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAkPAAAAAAAACQ8AAAAAAAAVAAAACkthdGUgV2lsc29uCmNvbnRpbnVl",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAeDwAAAAAAAAkPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					3,
+					"left_delete",
+					null,
+					"AwAAAAkPAAAAAAAACQ8AAAAAAAA9AAAACkxlc3NvbiAyMjogVW5kZXJzdGFuZGluZyBCdWZmZXIgT3ZlcmZsb3cgQXR0YWNrcyAoY29udGludWVkKQgPAAAAAAAACA8AAAAAAAABAAAACgcPAAAAAAAABw8AAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABGDwAAAAAAAAkPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAYPAAAAAAAABg8AAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAHDwAAAAAAAAcPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					29,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAcPAAAAAAAABw8AAAAAAAABAAAACgYPAAAAAAAABg8AAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAIDwAAAAAAAAgPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHUdAAAAAAAAdR0AAAAAAAAjAAAATGVzc29uIDQ0CgoKCgoKS2F0ZSBXaWxzb24KY29udGludWU",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACYHQAAAAAAAHUdAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "Le"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					59,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAEAAAAAAAAAAQAAAAAAAAABAAAAZQAAAAAAAAAAAAAAAAAAAAABAAAATA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "Network"
+					},
+					"BwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": " Attacks"
+					},
+					"CAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": " and"
+					},
+					"BAAAAA8AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": " Audits"
+					},
+					"BwAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": " Outline"
+					},
+					"CAAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"contents": "Lesson 1 Lab Report\n**Lab Report Form: Lesson 1 - Setting Up the Virtual Environment**\n\nName: _________________________\nDate: __________________________\n\n**Instructions:**\nPlease fill out this lab report form as you complete the lab activities. Include relevant screenshots and answer the questions to demonstrate your understanding of the concepts covered in this lab. Save your completed lab report as a PDF or Word document and submit it according to your instructor's guidelines.\n\n**Part 1: Creating a Virtual Machine**\n1. Screenshot of the \"Create a New Virtual Machine\" window with the selected operating system and version.\n2. Screenshot of the \"Specify Disk Capacity\" window with the disk size selected.\n3. Screenshot of the \"Ready to Create Virtual Machine\" window with the VM configuration summary.\n\n**Question 1:** Why is it important to allocate sufficient resources (memory, disk space, etc.) to your virtual machine?\n\n**Part 2: Configuring the Virtual Network**\n1. Screenshot of the \"Virtual Network Editor\" window with the VMnet settings.\n2. Screenshot of the \"Virtual Machine Settings\" window with the network adapter configuration.\n\n**Question 2:** What is the purpose of configuring a virtual network for your VM, and how does it relate to the host machine's network?\n\n**Part 3: Installing the Operating System**\n1. Screenshot of the operating system installation progress.\n2. Screenshot of the operating system's desktop or command line interface after installation.\n\n**Question 3:** What are some potential challenges that you might encounter during the installation of an operating system on a virtual machine?\n\n**Part 4: Configuring Network Services**\n1. Screenshot of the network configuration settings within the operating system.\n2. Screenshot of the successful network connection test.\n\n**Question 4:** How do the network configuration settings in the virtual machine affect its communication with other devices on the network?\n\n**Part 5: Verifying Connectivity**\n1. Screenshot of the successful ping test between the virtual machine and the host machine.\n2. Screenshot of the successful ping test between the virtual machine and another device on the network.\n\n**Question 5:** Why is it important to verify network connectivity between the virtual machine and other devices on the network?\n\n**Conclusion:**\nSummarize your experience in setting up the virtual environment and any challenges you encountered during the process. Reflect on the importance of creating a virtual environment for learning about network security and performing hands-on activities in a safe and controlled environment.",
+			"settings":
+			{
+				"buffer_size": 2621,
+				"line_ending": "Windows",
+				"name": "Lesson 1 Lab Report"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "Lesson"
+					},
+					"BgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"insert",
+					{
+						"characters": " 1"
+					},
+					"AgAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": " lab"
+					},
+					"BAAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					4,
+					"left_delete",
+					null,
+					"BAAAAAwAAAAAAAAADAAAAAAAAAABAAAAIAsAAAAAAAAACwAAAAAAAAABAAAAYgoAAAAAAAAACgAAAAAAAAABAAAAYQkAAAAAAAAACQAAAAAAAAABAAAAbA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "Lab"
+					},
+					"AwAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " Report"
+					},
+					"BwAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABMAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AQAAABQAAAAAAAAAPQoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "W1/Lesson 1/Lesson 1 Lecture Slides",
+			"settings":
+			{
+				"buffer_size": 11324,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Install package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Network Attacks and Audits/W1/Lesson 1/Lesson 1 Plan For ChatGPT Content Creation",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Network Attacks and Audits/W1/Lesson 1/Lesson 1 Lecture Slides",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Network Attacks and Audits/W1/Lesson 1/Lesson 1 Quiz",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Network Attacks and Audits/W1/Week 1 Exam",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Network Attacks and Audits/W1/Lesson 1/Lesson 1 Lab Outline",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Network Attacks and Audits/W1/Lesson 1/Lesson 1 Lab Student Instructions",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Network Attacks and Audits/W1/Lesson 1/Lesson 1 Content for Reading",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Network Attacks and Audits/W1/Lesson 1/Lesson 1 Lab instructions for insturctorLab 1 Prep",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Network Attacks and Audits/W1/Lesson 1/Lesson 1 Additional Resources",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Network Attacks and Audits/W1/Lesson 1/Lesson 1 Key Terms",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Network Attacks and Audits/Lesson Plan Template",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Work schedule coms/Security Field Projects.txt",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Work schedule coms/TCP IP Work Schedule.txt",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Work schedule coms/Advanced networkin Work Schedule.txt",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Work schedule coms/Net Essentials work schedule.txt",
+		"/C/Users/kawilson.LAB-KAWILSON/Desktop/Work schedule coms/Python Work Schedule.txt",
+		"/C/Users/kawilson.LAB-KAWILSON/Downloads/flag.txt",
+		"/C/Users/kawilson.LAB-KAWILSON/Downloads/cat.jpg"
+	],
+	"find":
+	{
+		"height": 27.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"continue",
+			"One"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Network Attacks and Audits Outline",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Network Attacks and Audits Outline",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2621,
+								2621
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Lesson 1 Lab Report",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 49.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "W1/Lesson 1/Lesson 1 Lecture Slides",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 11324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1307,
+								1307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.3333333333
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Network Attacks and Audits.sublime-project",
+	"replace":
+	{
+		"height": 50.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

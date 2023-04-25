@@ -1,0 +1,40 @@
+Lesson 1 Key Terms
+Network Attack: Any unauthorized action taken to disrupt, compromise, or damage a computer network, its systems, or the data it contains.
+
+Denial of Service (DoS): An attack that aims to overwhelm a target system, such as a server or a network, with a flood of traffic, rendering it unable to respond to legitimate requests.
+
+Distributed Denial of Service (DDoS): A DoS attack that involves multiple coordinated sources sending traffic to the target system, making it even more difficult to mitigate.
+
+Man-in-the-Middle (MITM) Attack: An attack where an attacker intercepts communications between two parties, altering or eavesdropping on their conversation without their knowledge.
+
+Packet Sniffing: The act of capturing and analyzing network data packets, potentially allowing an attacker to gather sensitive information.
+
+Social Engineering: A type of attack that manipulates people into providing confidential information or performing actions that compromise security, rather than exploiting technical vulnerabilities.
+
+Malware: Malicious software designed to infiltrate, damage, or disrupt computer systems, steal data, or perform other unauthorized activities.
+
+Ransomware: A type of malware that encrypts a victim's data, rendering it inaccessible until a ransom is paid to the attacker.
+
+SQL Injection: A code injection technique where an attacker submits malicious SQL code to a web application, potentially compromising the underlying database.
+
+Cross-Site Scripting (XSS): A web application vulnerability that allows an attacker to inject malicious scripts into web pages viewed by other users.
+
+Cross-Site Request Forgery (CSRF): A web application vulnerability that tricks a user into performing unwanted actions on a trusted site while they are authenticated.
+
+Buffer Overflow: A vulnerability caused by writing data beyond the allocated buffer size, potentially allowing an attacker to execute arbitrary code or crash the system.
+
+DNS Spoofing: An attack that alters Domain Name System (DNS) records, redirecting users to malicious websites or intercepting network traffic.
+
+ARP Spoofing: An attack that manipulates the Address Resolution Protocol (ARP) to associate an attacker's MAC address with the IP address of another device on the network, allowing them to intercept or redirect network traffic.
+
+IP Spoofing: An attack in which an attacker sends packets with a forged source IP address, making it appear as if they originate from a different device.
+
+MAC Spoofing: An attack that involves changing the attacker's MAC address to impersonate another device on the network, potentially bypassing access controls or evading detection.
+
+VLAN Hopping: An attack that exploits vulnerabilities in VLAN implementations to gain unauthorized access to restricted network segments.
+
+Network Enumeration: The process of gathering information about a network's topology, devices, and services, which can be used by attackers to plan their attacks.
+
+Zero-day Attack: An attack that exploits a previously unknown vulnerability, often before the vendor or developer is aware of the issue and can release a patch.
+
+Advanced Persistent Threat (APT): A sophisticated, long-term cyber attack, often state-sponsored, that targets specific organizations or individuals to steal sensitive information or disrupt operations.

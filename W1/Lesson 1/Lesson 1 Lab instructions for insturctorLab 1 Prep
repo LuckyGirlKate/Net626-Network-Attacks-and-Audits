@@ -1,0 +1,23 @@
+Lesson 1 Lab instructions for insturctorLab 1 Preparation Instructions for the Professor:
+
+Before conducting Lab 1, follow these steps to ensure that you are well-prepared to guide students through the process of setting up their virtual environment using VMWare Workstation.
+
+Familiarize yourself with VMWare Workstation:
+
+If you are not already familiar with VMWare Workstation, spend some time exploring its features and functionalities. This will help you address any questions or issues that students may encounter during the lab.
+Set up your own VMWare Workstation environment:
+
+Follow the same lab instructions provided to students to set up your own virtual environment with an Ubuntu Server and Kali Linux VM. This will not only familiarize you with the process, but also allow you to demonstrate the steps during the lab session if needed.
+Verify network connectivity and configuration:
+
+Make sure the virtual machines in your environment are properly configured and can communicate with each other. This includes ensuring that both VMs are connected to the same custom virtual network, and they can ping each other or exchange data.
+Prepare additional resources:
+
+If needed, prepare supplementary materials that can help students better understand the concepts being taught in the lab. This may include video tutorials, articles, or other resources related to VMWare Workstation, virtual machines, and network configurations.
+Be prepared to troubleshoot:
+
+Familiarize yourself with common issues that may arise during the lab session, such as VM configuration errors, network connectivity problems, or software installation issues. Be prepared to assist students in troubleshooting and resolving these issues.
+Plan for follow-up activities:
+
+Consider assigning homework or follow-up activities that allow students to explore their newly created virtual environment further. This could include tasks such as installing additional software, configuring services, or securing their virtual machines.
+By completing these preparation steps, you will be well-equipped to lead the students through Lab 1 and help them create a functional virtual environment using VMWare Workstation.

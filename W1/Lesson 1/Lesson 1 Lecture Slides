@@ -1,0 +1,224 @@
+Lesson 1 Lecture Slides
+Slide 1:
+Bullets:
+
+Introduction to Network Attacks
+Detailed Speaking Script:
+"Welcome everyone to our first lesson on network attacks. Today, we'll be discussing various types of network attacks and understanding the motivations behind them."
+References:
+N/A
+Image:
+Slide title with a relevant background image related to cybersecurity
+Slide 2:
+Bullets:
+
+Network attacks are ever-present threats
+Importance of understanding and defending against them
+Detailed Speaking Script:
+"Network attacks are an ever-present threat in our digital world. It's crucial for us to understand and defend against these attacks to ensure the security of our networks and systems."
+References:
+N/A
+Image:
+Graphic illustrating the concept of network attacks and defense
+Slide 3:
+Bullets:
+
+Understand basic concepts and types of network attacks
+Recognize attacker motivations
+Develop foundation for preventing and mitigating attacks
+Detailed Speaking Script:
+"By the end of this lesson, you'll be able to understand the basic concepts and types of network attacks, recognize attacker motivations, and develop a foundation for preventing and mitigating these attacks."
+References:
+N/A
+Image:
+Three icons representing concepts, motivations, and prevention
+Slide 4:
+Bullets:
+
+Denial of Service (DoS) attacks
+Distributed Denial of Service (DDoS) attacks
+Detailed Speaking Script:
+"Let's begin by discussing two types of network attacks: Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks. Both of these attacks aim to disrupt the availability of a network or service."
+References:
+Howard, R., & Kaur, T. (2020). Network Attacks and Exploitation: A Framework. John Wiley & Sons.
+Image:
+Split image illustrating a DoS attack and a DDoS attack
+Slide 5:
+Bullets:
+
+Man-in-the-Middle (MitM) attacks
+Packet sniffing
+Detailed Speaking Script:
+"Next, we'll cover Man-in-the-Middle (MitM) attacks and packet sniffing. MitM attacks involve intercepting and potentially altering the communication between two parties. Packet sniffing is the process of monitoring and capturing network traffic."
+References:
+Wagner, D., & Schneier, B. (1996). Analysis of the SSL 3.0 protocol. In Proceedings of the 2nd USENIX workshop on Electronic commerce (Vol. 2, pp. 29-40).
+Image:
+Split image illustrating a MitM attack and packet sniffing
+Slide 6:
+Bullets:
+
+SYN flood attack
+Analogy: Crowd blocking a store entrance
+Detailed Speaking Script:
+"An example of a DoS attack is a SYN flood attack. In this attack, an attacker sends a flood of SYN packets to a target, causing it to become overwhelmed and unresponsive. You can think of it as a crowd blocking the entrance to a store, preventing customers from entering."
+References:
+Mirkovic, J., & Reiher, P. (2004). A taxonomy of DDoS attack and DDoS defense mechanisms. ACM SIGCOMM Computer Communication Review, 34(2), 39-53.
+Image:
+Graphic or illustration showing a SYN flood attack with an analogy of a crowd blocking a store entrance
+
+Slide 7:
+Bullets:
+
+Denial of Service (DoS) attacks
+Distributed Denial of Service (DDoS) attacks
+Packet flooding, service disruption
+Detailed Speaking Script:
+"Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks aim to overwhelm a target system or network with excessive traffic, causing service disruption. This can be accomplished by flooding the target with packets, consuming its resources, and making it unable to serve legitimate users."
+References:
+Mirkovic, J., & Reiher, P. (2004). A taxonomy of DDoS attack and DDoS defense mechanisms. ACM SIGCOMM Computer Communication Review, 34(2), 39-53.
+Image:
+Graphic illustrating the difference between DoS and DDoS attacks and their impact on a target system
+Slide 8:
+Bullets:
+
+Man-in-the-Middle (MitM) attack example
+Rogue Wi-Fi hotspot
+Detailed Speaking Script:
+"A common example of a Man-in-the-Middle attack is when an attacker sets up a rogue Wi-Fi hotspot. Unsuspecting users connect to it, and the attacker can intercept and alter their communication with other devices or services."
+References:
+Conti, M., Dragoni, N., & Lesyk, V. (2016). A survey of man in the middle attacks. IEEE Communications Surveys & Tutorials, 18(3), 2027-2051.
+Image:
+Graphic illustrating a rogue Wi-Fi hotspot and intercepted communication
+Slide 9:
+Bullets:
+
+Packet sniffing example
+Wireshark
+Detailed Speaking Script:
+"Wireshark is a popular packet sniffing tool used by both network administrators and attackers. It allows users to monitor and analyze network traffic to detect issues or gain unauthorized access to sensitive information."
+References:
+Wireshark. (n.d.). Retrieved from https://www.wireshark.org/
+Image:
+Screenshot of Wireshark interface capturing network traffic
+Slide 10:
+Bullets:
+
+Attacker motivations
+Financial gain, espionage, hacktivism, cyber warfare
+Detailed Speaking Script:
+"Understanding attacker motivations is key to comprehending the threat landscape. Some common motivations include financial gain, espionage, hacktivism, and cyber warfare."
+References:
+Choo, K. K. R. (2011). The cyber threat landscape: Challenges and future research directions. Computers & Security, 30(8), 719-731.
+Image:
+Four icons representing different attacker motivations
+Slide 11:
+Bullets:
+
+Financial gain
+Ransomware, stealing sensitive information
+Detailed Speaking Script:
+"Financial gain is a major motivation for many attackers. Examples include ransomware attacks, where victims are forced to pay to regain access to their data, and stealing sensitive information for fraud or identity theft."
+References:
+Stavrou, A., Pitsillidis, A., & Christin, N. (2014). Measuring the effectiveness of defenses against ransomware. Proceedings of the 2014 Workshop on Cyber Security Analytics, Detection, and Automation.
+Image:
+Split image illustrating ransomware and stealing sensitive information
+Slide 12:
+Bullets:
+
+Espionage
+Cyber spying, intellectual property theft
+Detailed Speaking Script:
+"Espionage involves cyber spying and theft of sensitive information, often for political or economic advantage. Intellectual property theft is a common example of cyber espionage."
+References:
+Alperovitch, D. (2011). Revealed: Operation Shady RAT. An investigation of targeted intrusions into 70+ global companies, governments, and non-profit organizations during the last 5 years. McAfee.
+Image:
+Graphic illustrating cyber spying and intellectual property theft
+Slide 13:
+Bullets:
+
+Hacktivism
+Protesting, spreading awareness, digital activism
+Detailed Speaking Script:
+"Hacktivism refers to the use of hacking techniques to protest or spread awareness about a cause. It's a form of digital activism where attackers target organizations they perceive as unethical or unjust."
+References:
+Jordan, T., & Taylor, P. A. (2004). Hacktivism and cyberwars: Rebels with a cause?. Routledge.
+Image:
+Graphic illustrating hacktivism, such as a digital protest
+Slide 14:
+Bullets:
+
+Man-in-the-Middle (MitM) attacks
+Intercepting, modifying, or injecting messages
+SSL/TLS, public key infrastructure
+Detailed Speaking Script:
+"Man-in-the-Middle (MitM) attacks involve an attacker intercepting, modifying, or injecting messages between two parties who believe they are communicating directly with each other. These attacks can be mitigated using secure communication protocols like SSL/TLS and public key infrastructure."
+References:
+Huang, Y., Macbeth, S., Marolla, A., & Gruteser, M. (2017). Man-in-the-middle attacks on secure simple pairing in Bluetooth low energy. ACM Transactions on Privacy and Security (TOPS), 20(1), 1-29.
+Image:
+Diagram illustrating a Man-in-the-Middle attack and how secure protocols can mitigate it
+Slide 15:
+Bullets:
+
+Defense-in-depth strategy
+Layered security approach
+Detailed Speaking Script:
+"To protect against network attacks, a defense-in-depth strategy is recommended. This involves implementing a layered security approach, with multiple defenses working together to minimize the risk of a successful attack."
+References:
+Scarfone, K., & Mell, P. (2007). Guide to intrusion detection and prevention systems (IDPS). NIST special publication, 800(94), 1-121.
+Image:
+Graphic illustrating a layered security approach
+Slide 16:
+Bullets:
+
+Network segmentation
+Firewalls, access controls
+Detailed Speaking Script:
+"Network segmentation is an important defensive technique. It involves dividing the network into smaller segments and controlling access with firewalls and access controls. This limits the potential damage an attacker can cause if they gain access to the network."
+References:
+Singh, R., & Malhotra, J. (2013). Network segmentation and security using virtual local area network (VLAN). International Journal of Computer Science and Information Technologies, 4(2), 265-268.
+Image:
+Diagram of a segmented network with firewalls and access controls
+Slide 17:
+Bullets:
+
+Intrusion Detection and Prevention Systems (IDPS)
+Signature-based, anomaly-based, and stateful protocol analysis
+Detailed Speaking Script:
+"Intrusion Detection and Prevention Systems (IDPS) are essential tools in defending against network attacks. They monitor network traffic for signs of malicious activity and can alert administrators or take action to block the threat. IDPS can use signature-based, anomaly-based, or stateful protocol analysis to detect threats."
+References:
+Scarfone, K., & Mell, P. (2007). Guide to intrusion detection and prevention systems (IDPS). NIST special publication, 800(94), 1-121.
+Image:
+Graphic illustrating the three types of IDPS detection methods
+Slide 18:
+Bullets:
+
+Security awareness training
+Social engineering, phishing
+Detailed Speaking Script:
+"Security awareness training is critical for defending against network attacks. Many attacks, such as social engineering and phishing, target users as the weakest link. By training employees to recognize and report suspicious activity, the risk of a successful attack can be reduced."
+References:
+Albrechtsen, E., & Hovden, J. (2010). Improving information security awareness and behaviour through dialogue, participation and collective reflection. An intervention study. Computers & Security, 29(4), 432-445.
+Image:
+Graphic illustrating security awareness training and its impact on reducing risk
+Slide 19:
+Bullets:
+
+Regular updates and patches
+Reducing vulnerabilities
+Detailed Speaking Script:
+"Regularly applying updates and patches to your systems is crucial for maintaining security. These updates often address known vulnerabilities, reducing the risk of an attacker exploiting them to gain unauthorized access."
+References:
+Zorz, Z. (2015). Patch management: Fixing vulnerabilities before they are exploited. Help Net Security.
+Image:
+Graphic illustrating the process of applying updates and patches to systems
+Slide 20:
+Bullets:
+
+Summary of key points
+Types of network attacks, attacker motivations, defense strategies
+Detailed Speaking Script:
+"In today's lesson, we covered various types of network attacks, including DoS, DDoS, MitM, and packet sniffing. We also discussed attacker motivations, such as financial gain, espionage, hacktivism, and cyber warfare. Finally, we explored defense strategies, like defense-in-depth, network segmentation, IDPS, security awareness training, and regular updates."
+References:
+N/A
+Image:
+Collage or recap of key concepts and images from the lecture
