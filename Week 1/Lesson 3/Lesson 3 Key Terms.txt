@@ -1,0 +1,43 @@
+Lesson 3 Key Terms
+
+1. Virtual Local Area Network (VLAN): A logical segmentation of a network, allowing devices in separate VLANs to behave as if they are in separate networks, even if they share the same physical infrastructure.
+
+2. Inter-VLAN routing: The process of forwarding network traffic between different VLANs, typically by using a router or a Layer 3 switch.
+
+3. Firewall: A network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules.
+
+4. Security policy: A set of rules or guidelines that define the allowed and disallowed actions within a network or system, as well as the consequences of violating those rules.
+
+5. Intrusion Detection System (IDS): A security tool that monitors network traffic and system activities for signs of malicious activities or policy violations and generates alerts when such events are detected.
+
+6. Intrusion Prevention System (IPS): A security tool that actively blocks detected malicious activities or policy violations in real-time, in addition to generating alerts like an IDS.
+
+7. Signature-based detection: A method used by IDS/IPS systems to detect known threats by comparing network traffic or system activities against a database of known attack patterns or signatures.
+
+8. Anomaly-based detection: A method used by IDS/IPS systems to detect unknown threats by establishing a baseline of normal behavior and looking for deviations from that baseline.
+
+9. Wireless Access Point (WAP): A networking device that allows wireless devices to connect to a wired network, typically using Wi-Fi protocols.
+
+10. WPA3: The latest version of the Wi-Fi Protected Access (WPA) security protocol, which provides stronger encryption and improved security features compared to its predecessors.
+
+11. Guest network: A separate, isolated network segment designed to provide temporary or limited network access to visitors or guests, often with its own security policies.
+
+12. Network monitoring: The process of observing and analyzing network traffic and performance to identify potential issues, optimize performance, and maintain security.
+
+13. Wireshark: A popular open-source network protocol analyzer that allows users to capture and analyze network traffic in real-time.
+
+14. tcpdump: A command-line network traffic analyzer that allows users to capture and analyze network traffic on Linux and Unix systems.
+
+15. Packet capture (pcap) file: A file format used to store network traffic data, which can be analyzed offline using tools like Wireshark or tcpdump.
+
+16. Access Control List (ACL): A set of rules that define which users or devices have permission to access specific network resources, often used in firewalls and routers to enforce security policies.
+
+17. Stateful firewall: A type of firewall that maintains the context of network connections and makes decisions based on the connection state, in addition to the standard security policies.
+
+18. Network Address Translation (NAT): A technique that allows a single public IP address to represent multiple private IP addresses, facilitating the sharing of a limited number of public IP addresses among multiple devices.
+
+19. Demilitarized Zone (DMZ): A subnetwork or network segment that sits between an organization's internal network and an external network (typically the internet), providing an additional layer of security by isolating sensitive internal systems from external threats.
+
+20. Port scanning: A technique used by attackers and network administrators to identify open ports on a target system, which can reveal potential vulnerabilities or unauthorized services.
+
+Remember these key terms as Lesson 3 Key Terms.

@@ -1,0 +1,59 @@
+Slide 1:
+"Welcome to Lesson 3. Today, we will be discussing secure network design and the various strategies that can be used to protect computer networks from security threats."
+
+Slide 2:
+"In this lecture, we will cover the key components of secure network design, including network segmentation, firewall implementation, intrusion detection and prevention systems, wireless network security, network monitoring and logging, security policies and procedures, and continuous improvement and training."
+
+Slide 3:
+"Network segmentation is a critical component of secure network design. It involves dividing the network into smaller, separate segments to reduce the attack surface and limit the spread of threats. This can be achieved through the use of VLANs, subnets, and DMZs."
+
+Slide 4:
+"Let's look at a real-world example of network segmentation: ABC Company. ABC Company implemented network segmentation to limit the damage in case of a security breach. They used VLANs to separate different departments and subnets to isolate their most sensitive data."
+
+Slide 5:
+"Firewalls play an essential role in network security. They act as a barrier between the internal network and the outside world, controlling the flow of network traffic based on predefined rules. There are different types of firewalls, such as packet filtering firewalls, stateful inspection firewalls, and next-generation firewalls."
+
+Slide 6:
+"A real-world example of firewall implementation is the DEF Corporation. DEF Corporation deployed stateful inspection firewalls at the perimeter of their network and next-generation firewalls to protect their data center. This combination provided robust protection against various types of attacks."
+
+Slide 7:
+"Intrusion detection and prevention systems, or IDPS, are essential tools in securing networks. Intrusion detection systems (IDS) monitor network traffic for signs of suspicious activity, while intrusion prevention systems (IPS) actively block or prevent identified threats."
+
+Slide 8:
+"An example of a company that effectively employed IDPS is the GHI Company. GHI Company implemented a combination of IDS and IPS solutions to monitor their network traffic and block potential threats, protecting their sensitive data and maintaining network security."
+
+Slide 9:
+"Wireless network security is crucial, as wireless networks can be more vulnerable to attacks than wired networks. Securing wireless networks involves using strong encryption protocols, proper authentication mechanisms, and regular network scanning to identify and address vulnerabilities."
+
+Slide 10:
+"In our real-world example, the MNO Company successfully implemented wireless network security measures, such as using WPA3 encryption and strong authentication methods. This protected their wireless network from potential attacks and data breaches."
+
+Slide 11:
+"Network monitoring and logging are critical for maintaining network security. Effective monitoring involves using tools and techniques to continuously analyze network traffic, identify potential threats, and provide alerts when suspicious activity is detected. Logging helps maintain a record of network events and can be used for forensic analysis and identifying patterns of attack."
+
+Slide 12:
+"In a real-world example, PQR Corporation utilized network monitoring and logging to identify and address potential threats quickly. They used advanced network monitoring tools and maintained detailed logs, allowing them to detect and respond to security incidents more effectively."
+
+Slide 13:
+"Security policies and procedures are essential for establishing a solid foundation for network security. These policies and procedures define the rules and guidelines for network usage, access control, and other security measures. They help ensure that everyone in the organization understands their responsibilities in maintaining network security."
+
+Slide 14:
+"STU Organization serves as a real-world example of implementing security policies and procedures. They established comprehensive security policies and procedures, which clearly outlined the roles and responsibilities of employees and IT staff, as well as the measures necessary to protect the organization's network and data."
+
+Slide 15:
+"Continuous improvement and training are essential for maintaining a high level of network security. By staying up-to-dateon the latest threats, technologies, and best practices, organizations can proactively address potential vulnerabilities and improve their overall security posture. Training employees and IT staff in cybersecurity awareness and best practices helps create a culture of security within the organization."
+
+Slide 16:
+"VWX Corporation serves as a real-world example of continuous improvement and training. They regularly assess their network security measures, implement necessary improvements, and provide ongoing cybersecurity training for their employees. This proactive approach has helped them maintain a strong security posture and minimize the risk of security incidents."
+
+Slide 17:
+"In summary, secure network design involves multiple components working together to protect an organization's network and data. Network segmentation, firewalls, intrusion detection and prevention systems, wireless network security, network monitoring and logging, security policies and procedures, and continuous improvement and training all play a crucial role in maintaining network security."
+
+Slide 18:
+"By understanding and implementing these concepts, cybersecurity and computer networking professionals can design and maintain secure networks that are resilient against various types of attacks and threats."
+
+Slide 19:
+"Now that we've covered the key components of secure network design, let's move on to the lab portion of today's lesson. In the lab, you will have the opportunity to apply these concepts and gain hands-on experience in implementing secure network design strategies."
+
+Slide 20:
+"Thank you for your attention during today's lecture. I hope you have gained a deeper understanding of secure network design and its importance in maintaining the security of computer networks. I look forward to seeing you apply these concepts in the lab and in your future work in cybersecurity and computer networking."

@@ -1,0 +1,56 @@
+Lesson 3 Lab Report Template
+
+[Student Name]
+[Date]
+Lesson 3: Network Security Fundamentals Lab Report
+
+Introduction:
+In this lab, you will practice network security concepts and techniques, including network segmentation, firewall configuration, intrusion detection and prevention systems (IDS/IPS), wireless network security, and network monitoring. You will work in a lab environment using VMware Workstation with an Ubuntu server and Kali Linux instance.
+
+Lab Environment Setup:
+1. Open VMware Workstation and ensure you have an Ubuntu Server and a Kali Linux virtual machine set up.
+2. Start both virtual machines and ensure they are connected to the same virtual network.
+
+Step-by-Step Instructions:
+
+1. Network Segmentation:
+   a. Create VLANs on your virtual switches, following your group's unique VLAN ID assignment (e.g., VLAN 10, VLAN 20, etc.).
+   b. Configure inter-VLAN routing on your virtual routers to segment the network.
+   c. Test the network segmentation by attempting to communicate with other VLANs.
+   Screenshot: Submit a screenshot showing successful network segmentation.
+
+   Question 1: What are the benefits of network segmentation in terms of security and network performance?
+
+2. Firewall Configuration:
+   a. Implement your group's assigned security policies on your virtual firewalls.
+   b. Configure the firewalls to filter traffic between network segments based on the assigned security policies.
+   c. Test the firewall configuration by sending traffic that should be blocked according to your assigned policies.
+   Screenshot: Submit a screenshot showing the firewall configuration and a test of the firewall rules.
+
+   Question 2: How do firewalls contribute to network security, and what are some common types of firewall policies?
+
+3. Intrusion Detection and Prevention Systems (IDS/IPS):
+   a. Configure your IDS/IPS with the provided rules to detect potential security threats.
+   b. Set up the IDS/IPS to monitor network traffic and enforce the rules.
+   c. Test the IDS/IPS configuration by simulating network traffic that should trigger alerts.
+   Screenshot: Submit a screenshot showing the IDS/IPS configuration and a triggered alert.
+
+   Question 3: What is the difference between an IDS and an IPS, and how do they contribute to network security?
+
+4. Wireless Network Security:
+   a. Configure a wireless access point with proper security settings (e.g., WPA3 encryption, strong passwords).
+   b. Set up a guest network with appropriate security measures.
+   Screenshot: Submit a screenshot showing the wireless access point configuration and the guest network settings.
+
+   Question 4: What are some best practices for securing wireless networks, and why are they important?
+
+5. Network Monitoring:
+   a. Use network monitoring tools like Wireshark or tcpdump to capture network traffic.
+   b. Analyze the captured traffic to identify potential security risks or suspicious activities.
+   Screenshot: Submit a screenshot of the network monitoring tool with captured traffic and any identified security risks.
+
+   Question 5: What are the benefits of network monitoring, and how can it help improve network security?
+
+Please submit this lab report as a Microsoft Word document.
+
+Remember to follow industry best practices throughout the lab, including proper documentation, configuration, and testing procedures.

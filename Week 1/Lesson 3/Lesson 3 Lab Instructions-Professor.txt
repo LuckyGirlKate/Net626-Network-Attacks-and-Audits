@@ -1,0 +1,46 @@
+Lesson 3 Professor Lab Instructions
+
+Introduction:
+In this lab exercise, students will learn about network security concepts and techniques, including network segmentation, firewall configuration, intrusion detection and prevention systems (IDS/IPS), wireless network security, and network monitoring. Professors should provide guidance to students throughout the lab, ensuring they understand the concepts and can apply them in practice.
+
+Lab Environment Setup:
+1. Ensure each student or group of students has access to a computer with VMware Workstation installed.
+2. Ensure that students have an Ubuntu Server and a Kali Linux virtual machine set up in their VMware Workstation environment.
+
+Step-by-Step Procedure:
+
+1. Network Segmentation:
+   a. Divide the class into up to six groups, assigning each group a unique VLAN ID (e.g., Group 1: VLAN 10, Group 2: VLAN 20, etc.).
+   b. Have students create VLANs on their virtual switches and configure inter-VLAN routing on their virtual routers.
+   c. Verify that the VLANs are functioning correctly and that the groups can only communicate with their assigned VLAN.
+
+2. Firewall Configuration:
+   a. Assign each group a specific set of security policies to implement on their virtual firewalls.
+   b. Have students configure the firewalls to filter traffic between network segments based on their assigned security policies.
+   c. Verify that the firewalls are functioning correctly and that they are filtering traffic as expected.
+
+3. Intrusion Detection and Prevention Systems (IDS/IPS):
+   a. Provide students with a set of rules to configure their IDS/IPS to detect potential security threats.
+   b. Have students configure their IDS/IPS systems to monitor network traffic and enforce the provided rules.
+   c. Monitor the IDS/IPS systems to ensure they are correctly identifying and blocking potential threats.
+
+4. Wireless Network Security:
+   a. Assign each group a wireless access point to configure with proper security settings, such as WPA3 encryption and strong passwords.
+   b. Have students set up a guest network on their wireless access points with restricted access to the main network.
+   c. Verify that the wireless networks are secure and that the guest networks have limited access to network resources.
+
+5. Network Monitoring:
+   a. Provide students with a list of network monitoring tools (e.g., Wireshark, tcpdump) to analyze network traffic and identify potential security risks.
+   b. Have students perform various network activities while monitoring network traffic, looking for unusual patterns or suspicious IP addresses.
+   c. Encourage students to use the tools' filtering capabilities to focus on specific protocols or IP addresses during analysis.
+
+Safety Guidelines:
+1. Ensure that students are working in a safe and controlled lab environment, with appropriate supervision.
+2. Remind students not to attempt any unauthorized access to networks or systems, as this may result in legal consequences.
+
+Professor Tips:
+1. Encourage students to collaborate and share their findings with their group members.
+2. Provide real-world examples and scenarios to help students understand the importance of each concept.
+3. Encourage students to ask questions and engage in discussion throughout the lab exercise.
+4. Walk around the lab, observing student progress, and offering assistance as needed.
+5. Conduct a debriefing session at the end of the lab, discussing key takeaways and addressing any remaining questions or concerns.

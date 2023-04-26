@@ -1,0 +1,57 @@
+Lesson 3: Secure Network Design and Implementation
+
+Lesson Objective: 
+Students will learn about secure network design principles, best practices for implementing secure networks, and the importance of continuous monitoring and improvement in maintaining network security.
+
+Duration: 2 hours (1 hour lecture, 1 hour lab)
+
+Materials:
+- Lesson 3 PowerPoint presentation
+- Lesson 3 reading material
+- Lesson 3 lab guide
+
+Lesson Outline:
+
+1. Introduction (10 minutes)
+   - Briefly review the key concepts from Lesson 2
+   - Introduce the objectives and agenda for Lesson 3
+
+2. Secure Network Design Principles (20 minutes)
+   - Defense-in-depth
+   - Least privilege
+   - Network segmentation
+   - Demilitarized zones (DMZ)
+   - Zero trust architecture
+
+3. Best Practices for Implementing Secure Networks (30 minutes)
+   - Implementing strong authentication and access control
+   - Secure configuration and hardening of network devices
+   - Encrypting data in transit and at rest
+   - Regularly updating and patching software and firmware
+   - Implementing intrusion detection and prevention systems
+   - Deploying security information and event management (SIEM) solutions
+
+4. Continuous Monitoring and Improvement (20 minutes)
+   - Monitoring network traffic and logs
+   - Conducting vulnerability assessments and penetration tests
+   - Developing an incident response plan
+   - Conducting regular security audits and reviews
+   - Establishing a culture of continuous improvement and security awareness
+
+5. Lab Introduction (5 minutes)
+   - Explain the objectives and setup for the Lesson 3 lab
+
+6. Lab Activity (1 hour)
+   - Students will participate in hands-on activities related to secure network design and implementation, including configuring network devices, setting up access control, and monitoring network traffic. Detailed instructions will be provided in the Lesson 3 lab guide.
+   7. Lab Debrief (10 minutes)
+   - Discuss the outcomes of the lab activity
+   - Address any questions or concerns from the students
+   - Highlight key takeaways from the lab
+
+8. Conclusion (5 minutes)
+   - Summarize the key points from Lesson 3
+   - Discuss how the concepts learned in this lesson can be applied to real-world situations
+   - Encourage students to continue exploring the topics covered in Lesson 3
+   - Provide information about the upcoming Lesson 4 and any additional resources or readings
+
+With the completion of this lesson plan, students should have a strong understanding of secure network design principles, best practices for implementing secure networks, and the importance of continuous monitoring and improvement in maintaining network security. The hands-on lab activities will provide practical experience in configuring and monitoring secure networks, further enhancing the students' comprehension of the subject matter.

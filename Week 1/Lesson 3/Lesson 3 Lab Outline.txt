@@ -1,0 +1,29 @@
+Lesson 3 Lab Outline:
+
+1. Lab Objective:
+   - The objective of this lab is to provide students with hands-on experience in implementing secure network design strategies and to reinforce the concepts covered in the lecture.
+
+2. Lab Overview:
+   - In this lab, students will work with various tools and technologies to create a secure network environment, focusing on network segmentation, firewall configuration, intrusion detection and prevention systems, wireless network security, and network monitoring.
+
+3. Lab Setup:
+   - Students will have access to a virtual environment with multiple virtual machines (VMs) configured to simulate different network components and devices. These VMs include routers, switches, firewalls, intrusion detection systems (IDS), intrusion prevention systems (IPS), and a wireless access point.
+   - Before the lab, the instructor will need to prepare the virtual environment by creating the required VMs and ensuring they have the necessary software installed.
+
+4. Lab Activities:
+   1. Network segmentation:
+      - Students will create VLANs on switches and configure inter-VLAN routing on routers to segment the network.
+   2. Firewall configuration:
+      - Students will configure a firewall to filter traffic between network segments based on specified security policies.
+   3. Intrusion detection and prevention systems (IDS/IPS):
+      - Students will configure an IDS/IPS to monitor network traffic and detect potential security threats.
+   4. Wireless network security:
+      - Students will configure a wireless access point with proper security settings (e.g., WPA3 encryption, strong passwords) and set up a guest network.
+   5. Network monitoring:
+      - Students will use network monitoring tools to analyze network traffic and identify potential security risks.
+
+5. Lab Deliverables:
+   - After completing the lab activities, students will submit a lab report outlining their configurations, observations, and any challenges they faced during the lab. Additionally, students will provide screenshots of their completed tasks as evidence of their work.
+
+6. Lab Assessment:
+   - The lab report and screenshots will be assessed by the instructor to determine the students' understanding of the concepts covered in the lecture and their ability to apply them in a practical setting.

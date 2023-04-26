@@ -1,0 +1,18 @@
+Lesson 1 Recap
+LESSON 1 RECAP
+
+Hello students! Let's take a quick 5-minute recap of Lesson 1 to reinforce your understanding of the key concepts, principles, and best practices we covered according to the Lesson 1 Lecture, Lab, and Reading Content.
+
+First, we discussed the foundations of cybersecurity, emphasizing the importance of understanding threats, vulnerabilities, and risks. We explored various threat actors, their motivations, and how they exploit vulnerabilities to compromise systems.
+
+We also covered the essential principles of cybersecurity: Confidentiality, Integrity, and Availability, commonly known as the CIA triad. We discussed how encryption, hashing, and backup strategies play a role in securing information and systems.
+
+Next, we delved into the basics of risk management, exploring how to identify, assess, and prioritize risks. We learned about different risk mitigation strategies and the importance of creating a cybersecurity policy to guide an organization's security efforts.
+
+During the lab, we installed a virtual environment with Kali Linux and Ubuntu Server and practiced using basic cybersecurity tools like Nmap, Wireshark, and Metasploit. We learned how to conduct network scans, analyze packet captures, and perform vulnerability assessments, all of which are essential skills for a cybersecurity professional.
+
+Finally, we explored the importance of cybersecurity awareness and training for both individuals and organizations. We discussed the value of staying informed about the latest threats and best practices to protect against them.
+
+As we move on to Lesson 2, we'll dive deeper into network security concepts, focusing on securing network devices, implementing access controls, and understanding the role of firewalls and intrusion detection systems. We'll also explore different types of network attacks and learn how to defend against them.
+
+Keep up the great work, and remember to review the Lesson 1 material as needed. We're looking forward to diving into more advanced concepts in Lesson 2!

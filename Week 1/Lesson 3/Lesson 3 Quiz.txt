@@ -1,0 +1,74 @@
+LESSON 3 QUIZ
+
+1. What is the primary purpose of network segmentation?
+a) Increase network performance
+b) Simplify network management
+c) Improve network security
+d) Reduce hardware costs
+
+2. Which of the following is NOT a common type of firewall?
+a) Packet-filtering firewall
+b) Stateful inspection firewall
+c) Application-level gateway
+d) Intrusion prevention system (IPS)
+
+3. Which of the following is a technique used by intrusion detection systems (IDS) to detect potential security threats?
+a) Signature-based detection
+b) Vulnerability scanning
+c) Access control
+d) Firewall configuration
+
+4. What is the primary advantage of using WPA3 encryption for wireless networks over WEP?
+a) Faster data transmission
+b) Longer range
+c) Improved security
+d) Lower cost
+
+5. Which network monitoring metric measures the time it takes for a packet of data to travel from one point to another in a network?
+a) Throughput
+b) Latency
+c) Packet loss
+d) Error rate
+
+6. What is the primary difference between an intrusion detection system (IDS) and an intrusion prevention system (IPS)?
+a) IDS detects threats, while IPS prevents them
+b) IDS is a hardware device, while IPS is software
+c) IDS is used for wireless networks, while IPS is used for wired networks
+d) IDS is passive, while IPS is active
+
+7. Which network monitoring tool is commonly used to analyze network traffic in real-time?
+a) Wireshark
+b) Nmap
+c) Nessus
+d) Metasploit
+
+8. What is the main advantage of using a stateful inspection firewall compared to a packet-filtering firewall?
+a) Higher performance
+b) Lower cost
+c) Better security
+d) Easier configuration
+
+9. Which of the following is NOT a best practice for network monitoring?
+a) Establishing baselines
+b) Monitoring only internal traffic
+c) Configuring alerts and notifications
+d) Regularly reviewing and updating monitoring strategies
+
+10. In the context of network security, what does the term "honeypot" refer to?
+a) A trap set to detect unauthorized access attempts
+b) A centralized network monitoring system
+c) A type of firewall configuration
+d) A method of data encryption
+
+Answer Key:
+1. c
+2. d
+3. a
+4. c
+5. b
+6. a
+7. a
+8. c
+9. b
+10. a
+Remember This as LESSON 3 QUIZ

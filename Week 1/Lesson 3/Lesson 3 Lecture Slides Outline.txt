@@ -1,0 +1,159 @@
+Lesson 3 PowerPoint Slides:
+
+Slide 1:
+Slide Title: Lesson 3: Secure Network Design Principles
+Slide Bullet Points: 
+Slide Image Suggestion: Secure Network Design Graphic
+Slide Example or Case Study (If Applicable):
+
+Slide 2:
+Slide Title: Introduction to Secure Network Design Principles
+Slide Bullet Points:
+- Importance of secure network design
+- Objectives of secure network design
+Slide Image Suggestion: Network security icon
+Slide Example or Case Study (If Applicable):
+
+Slide 3:
+Slide Title: Defense in Depth
+Slide Bullet Points:
+- Explanation of the Defense in Depth concept
+- Layers of security
+Slide Image Suggestion: Defense in Depth layers diagram
+Slide Example or Case Study (If Applicable):
+
+Slide 4:
+Slide Title: Defense in Depth - Real-world Example
+Slide Bullet Points:
+- Case study: XYZ Corporation
+- How Defense in Depth was applied
+Slide Image Suggestion: XYZ Corporation logo
+Slide Example or Case Study (If Applicable): XYZ Corporation's implementation of Defense in Depth
+
+Slide 5:
+Slide Title: Network Segmentation
+Slide Bullet Points:
+- Definition of network segmentation
+- Benefits of network segmentation
+Slide Image Suggestion: Network segmentation diagram
+Slide Example or Case Study (If Applicable):
+
+Slide 6:
+Slide Title: Network Segmentation - Real-world Example
+Slide Bullet Points:
+- Case study: ABC Company
+- How network segmentation was applied
+Slide Image Suggestion: ABC Company logo
+Slide Example or Case Study (If Applicable): ABC Company's implementation of network segmentation
+
+Slide 7:
+Slide Title: Access Control
+Slide Bullet Points:
+- Definition of access control
+- Types of access control: DAC, MAC, RBAC
+Slide Image Suggestion: Access control graphic
+Slide Example or Case Study (If Applicable):
+
+Slide 8:
+Slide Title: Access Control - Real-world Example
+Slide Bullet Points:
+- Case study: DEF Organization
+- How access control was implemented
+Slide Image Suggestion: DEF Organization logo
+Slide Example or Case Study (If Applicable): DEF Organization's implementation of access control
+
+Slide 9:
+Slide Title: Firewalls and Intrusion Detection/Prevention Systems (IDS/IPS)
+Slide Bullet Points:
+- Definition of firewalls and IDS/IPS
+- Role in network security
+Slide Image Suggestion: Firewall and IDS/IPS icons
+Slide Example or Case Study (If Applicable):
+
+Slide 10:
+Slide Title: Firewalls and IDS/IPS - Real-world Example
+Slide Bullet Points:
+- Case study: GHI Enterprise
+- How firewalls and IDS/IPS were utilized
+Slide Image Suggestion: GHI Enterprise logo
+Slide Example or Case Study (If Applicable): GHI Enterprise's implementation of firewalls and IDS/IPS
+
+Slide 11:
+Slide Title: VPN and Remote Access Security
+Slide Bullet Points:
+- Definition of VPN and remote access security
+- Importance in secure network design
+Slide Image Suggestion: VPN icon
+Slide Example or Case Study (If Applicable):
+
+Slide 12:
+Slide Title: VPN and Remote Access Security - Real-world Example
+Slide Bullet Points:
+- Case study: JKL Industries
+- How VPN and remote access security were implemented
+Slide Image Suggestion: JKL Industries logo
+Slide Example or Case Study (If Applicable): JKL Industries' implementation of VPN and remote access security
+
+Slide 13:
+Slide Title: Wireless Network Security
+Slide Bullet Points:
+- Challenges of wireless network security
+- Best practices for securing wireless networks
+Slide Image Suggestion: Wi-Fi icon
+Slide Example or Case Study (If Applicable):
+
+Slide 14:
+Slide Title: Wireless Network Security - Real-world Example
+Slide Bullet Points:
+- Case study: MNO Company
+- Howwireless network security was implemented
+Slide Image Suggestion: MNO Company logo
+Slide Example or Case Study (If Applicable): MNO Company's implementation of wireless network security
+
+Slide 15:
+Slide Title: Network Monitoring and Logging
+Slide Bullet Points:
+- Importance of network monitoring and logging
+- Tools and techniques for effective monitoring
+Slide Image Suggestion: Network monitoring icon
+Slide Example or Case Study (If Applicable):
+
+Slide 16:
+Slide Title: Network Monitoring and Logging - Real-world Example
+Slide Bullet Points:
+- Case study: PQR Corporation
+- How network monitoring and logging were utilized
+Slide Image Suggestion: PQR Corporation logo
+Slide Example or Case Study (If Applicable): PQR Corporation's implementation of network monitoring and logging
+
+Slide 17:
+Slide Title: Security Policies and Procedures
+Slide Bullet Points:
+- Role of policies and procedures in secure network design
+- Examples of key policies and procedures
+Slide Image Suggestion: Policy document icon
+Slide Example or Case Study (If Applicable):
+
+Slide 18:
+Slide Title: Security Policies and Procedures - Real-world Example
+Slide Bullet Points:
+- Case study: STU Organization
+- How security policies and procedures were established
+Slide Image Suggestion: STU Organization logo
+Slide Example or Case Study (If Applicable): STU Organization's implementation of security policies and procedures
+
+Slide 19:
+Slide Title: Continuous Improvement and Training
+Slide Bullet Points:
+- Importance of continuous improvement in network security
+- Role of training and education
+Slide Image Suggestion: Continuous improvement graphic
+Slide Example or Case Study (If Applicable):
+
+Slide 20:
+Slide Title: Continuous Improvement and Training - Real-world Example
+Slide Bullet Points:
+- Case study: VWX Company
+- How continuous improvement and training were integrated
+Slide Image Suggestion: VWX Company logo
+Slide Example or Case Study (If Applicable): VWX Company's implementation of continuous improvement and training in network security

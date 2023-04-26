@@ -1,0 +1,53 @@
+Lesson 3 Lecture Outline:
+
+1. Introduction to Secure Network Design Principles (5 minutes)
+   - Importance of secure network design
+   - Objectives of secure network design
+
+2. Defense in Depth (10 minutes)
+   - Explanation of the Defense in Depth concept
+   - Layers of security
+   - Real-world examples
+
+3. Network Segmentation (10 minutes)
+   - Purpose of network segmentation
+   - Different methods of segmentation (VLANs, subnets, etc.)
+   - Best practices for implementing network segmentation
+   - Real-world examples
+
+4. Network Access Control (10 minutes)
+   - Explanation of network access control
+   - Different types of access control (MAC, DAC, RBAC, etc.)
+   - Best practices for implementing network access control
+   - Real-world examples
+
+5. Encryption and Secure Protocols (10 minutes)
+   - Importance of encryption in secure network design
+   - Common encryption algorithms and protocols (AES, RSA, TLS, SSH, etc.)
+   - Best practices for implementing encryption and secure protocols
+   - Real-world examples
+
+6. Intrusion Detection and Prevention Systems (10 minutes)
+   - Explanation of intrusion detection systems (IDS) and intrusion prevention systems (IPS)
+   - Differences between IDS and IPS
+   - Types of IDS and IPS (network-based, host-based, etc.)
+   - Best practices for implementing IDS and IPS
+   - Real-world examples
+
+7. Security Information and Event Management (SIEM) (10 minutes)
+   - Explanation of SIEM
+   - Importance of monitoring and logging in secure network design
+   - Key components of SIEM (log collection, correlation, analysis, etc.)
+   - Best practices for implementing SIEM
+   - Real-world examples
+
+8. Continuous Improvement and Incident Response (10 minutes)
+   - Explanation of continuous improvement in network security
+   - Importance of regular security assessments and audits
+   - Incident response planning and execution
+   - Real-world examples
+
+9. Conclusion (5 minutes)
+   - Recap of key points from the lecture
+   - Encouragement to apply the concepts learned in real-world situations
+   - Transition to the lab activity for Lesson 3

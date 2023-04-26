@@ -1,0 +1,139 @@
+Lab Instructions for Lesson 3: Secure Network Configuration and Monitoring
+
+Introduction:
+In this 1-hour lab exercise, you will gain hands-on experience in securing network configurations and monitoring network traffic using an Ubuntu server and a Kali Linux instance hosted in VMware Workstation. By completing this lab, you will develop a better understanding of network security best practices and how to analyze network traffic for potential threats.
+
+Lab Environment Setup:
+1. Launch VMware Workstation and ensure that you have an Ubuntu server and a Kali Linux instance set up and running.
+
+2. Log in to both virtual machines using the credentials provided by your instructor.
+
+Step-by-Step Procedure:
+
+**1. Network Segmentation:**
+   a. On the Ubuntu server, install a virtual switch and router software (e.g., Open vSwitch and Quagga) by running:
+      ```
+      sudo apt update
+      sudo apt install openvswitch-switch quagga
+      ```
+   b. Create two VLANs (VLAN10 and VLAN20) on the virtual switch:
+      ```
+      sudo ovs-vsctl add-br br0
+      sudo ovs-vsctl add-port br0 eth1 tag=10
+      sudo ovs-vsctl add-port br0 eth2 tag=20
+      ```
+   c. Configure inter-VLAN routing on the virtual router by editing the Quagga configuration files:
+      - Edit `/etc/quagga/zebra.conf` and add the following lines:
+         ```
+         interface eth1.10
+         ip address 192.168.10.1/24
+         interface eth2.20
+         ip address 192.168.20.1/24
+         ```
+      - Edit `/etc/quagga/ospfd.conf` and add the following lines:
+         ```
+         router ospf
+         network 192.168.10.0/24 area 0
+         network 192.168.20.0/24 area 0
+         ```
+   d. Restart the Quagga services by running:
+      ```
+      sudo systemctl restart zebra
+      sudo systemctl restart ospfd
+      ```
+
+**2. Firewall Configuration:**
+   a. Install the Uncomplicated Firewall (UFW) on the Ubuntu server by running:
+      ```
+      sudo apt install ufw
+      ```
+   b. Configure the firewall to filter traffic between network segments based on specified security policies. For example, allow HTTP traffic (port 80) from VLAN10 to VLAN20:
+      ```
+      sudo ufw allow in on eth1.10 out on eth2.20 from 192.168.10.0/24 to 192.168.20.0/24 port 80 proto tcp
+      ```
+   c. Enable the firewall by running: `sudo ufw enable`
+
+**3. Intrusion Detection and Prevention Systems (IDS/IPS):**
+   a. Install Snort, an open-source IDS/IPS, on the Ubuntu server by running:
+      ```
+      sudo apt install snort
+      ```
+   b. Configure Snort according to your network requirements by editing the `/etc/snort/snort.conf` file. For example, set the HOME_NET variable to your local network:
+      ```
+      ipvar HOME_NET 192.168.10.0/24,192.168.20.0/24
+      ```
+   c. Start Snort in IDS/IPS mode by running:
+      ```
+      sudo snort -A console -q -c /etc/snort/snort.conf -i [interface]
+      ```
+      (Replace `[interface]` with the appropriate network interface, e.g., `eth0`)
+
+**4. Wireless Network Security:**
+   a. Install and configure hostapd and dnsmasq on the Ubuntu server to set up a wireless access point:
+      ```
+      sudo apt install hostapd dnsmasq
+      ```
+   b. Edit the hostapd configuration file `/etc/hostapd/hostapd.conf` to set up proper security settings, such as WPA3 encryption and strong passwords:
+      ```
+      interface=wlan0
+      driver=nl80211
+      ssid=YourSecureNetwork
+      hw_mode=g
+      channel=7
+      wpa=3
+      wpa_passphrase=YourStrongPassword
+      wpa_key_mgmt=WPA-PSK
+      wpa_pairwise=CCMP
+      rsn_pairwise=CCMP
+      ```
+   c. Configure a guest network by editing the dnsmasq configuration file `/etc/dnsmasq.conf`:
+      ```
+      dhcp-range=192.168.100.2,192.168.100.254,255.255.255.0,12h
+      dhcp-option=3,192.168.100.1
+      dhcp-option=6,192.168.100.1
+      ```
+   d. Restart hostapd and dnsmasq services by running:
+      ```
+      sudo systemctl restart hostapd
+      sudo systemctl restart dnsmasq
+      ```
+
+5. Network Monitoring:
+
+a. On the Kali Linux instance, install Wireshark:
+sudo apt update sudo apt install wireshark
+
+b. Launch Wireshark with administrative privileges:
+sudo wireshark
+
+c. In Wireshark, select the appropriate network interface to capture packets on (e.g., eth0 or wlan0).
+
+d. Start the packet capture by clicking the "Start" button or pressing Ctrl+E.
+
+e. While the packet capture is running, perform various activities on the network, such as browsing the internet, downloading files, or streaming media. This will generate network traffic for analysis.
+
+f. Stop the packet capture after a few minutes by clicking the "Stop" button or pressing Ctrl+E.
+
+g. Analyze the captured packets, looking for potential security threats or anomalies. Focus on unusual patterns, unexpected protocols, or suspicious IP addresses.
+
+h. Use Wireshark's filtering capabilities to focus on specific protocols or IP addresses. For example, filter by HTTP requests (http.request) or by a specific IP address (ip.addr == 192.168.1.1).
+
+i. Investigate any suspicious packets by right-clicking and selecting "Follow" to view the entire conversation between the source and destination.
+
+j. Practice using Wireshark's features such as color-coding, statistics, and expert information to help identify potential security risks.
+
+Questions for Students:
+
+Why is network segmentation important for network security?
+
+How can firewalls help protect network resources by filtering traffic?
+
+What are the benefits of using an IDS/IPS in a network environment?
+
+How can proper wireless network security settings prevent unauthorized access?
+
+How can network monitoring tools like Wireshark help identify potential security risks?
+
+What are some examples of suspicious activities you might find when analyzing network traffic with Wireshark?
+
+How can Wireshark's filtering capabilities help you focus on specific aspects of network traffic during analysis?

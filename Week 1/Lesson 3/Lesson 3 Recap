@@ -1,0 +1,20 @@
+Lesson 3 Recap
+LESSON 3 RECAP
+
+Hello students! Today, we will do a quick 5-minute recap of Lesson 3, which covered important concepts and best practices in network security. By the end of this recap, you should have a clear understanding of the key points we covered in this lesson.
+
+First, we discussed network segmentation, which is the process of dividing a network into smaller, isolated segments to improve security and performance. We learned that one way to implement network segmentation is by creating VLANs on switches and configuring inter-VLAN routing on routers. Remember, network segmentation helps contain the spread of security threats and can limit the scope of a potential breach.
+
+Next, we explored firewall configuration, which is essential in protecting networks from unauthorized access and malicious traffic. We looked at different types of firewalls, such as packet-filtering firewalls, stateful inspection firewalls, and application-level gateways. We also discussed the importance of configuring firewall rules based on specific security policies to effectively filter traffic between network segments.
+
+We then moved on to intrusion detection and prevention systems (IDS/IPS). These systems are crucial for monitoring network traffic and detecting potential security threats. IDS/IPS use techniques like signature-based detection and anomaly-based detection to identify malicious activities in the network. Remember that the main difference between IDS and IPS is that IDS detects threats, while IPS actively takes action to prevent them.
+
+In the wireless network security section, we emphasized the importance of configuring wireless access points with proper security settings, such as using WPA3 encryption and strong passwords. We also discussed the benefits of setting up a guest network for visitors to use, keeping them separate from the main network.
+
+Finally, we examined network monitoring, which is essential for identifying potential security risks and ensuring the smooth operation of the network. We covered various network monitoring tools, such as Wireshark and Nmap, and the importance of establishing baselines, configuring alerts, and regularly reviewing and updating monitoring strategies.
+
+As a quick preview, our next lesson will delve into more advanced topics in cybersecurity, including threat intelligence, incident response, and digital forensics. We'll learn how to proactively identify and respond to security incidents, as well as how to gather evidence and analyze digital data for investigation purposes.
+
+That's it for our Lesson 3 recap! Keep these key concepts and best practices in mind as you continue to develop your skills in network security and cybersecurity. See you in the next lesson!
+
+Remember this as LESSON 3 RECAP

@@ -1,0 +1,64 @@
+Lesson 3 Additional Resouces
+LESSON 3 ADDITIONAL RESOURCES
+
+1. Cisco's Packet Tracer
+Description: A network simulation tool that allows students to design, configure, and test network topologies.
+Link: https://www.netacad.com/courses/packet-tracer
+
+2. GNS3
+Description: A graphical network simulator that helps students design, configure, and test complex network topologies.
+Link: https://www.gns3.com/
+
+3. Wireshark Tutorial
+Description: A comprehensive tutorial on using Wireshark, a popular network protocol analyzer, for network monitoring and analysis.
+Link: https://www.wireshark.org/docs/wsug_html_chunked/
+
+4. Firewall.cx
+Description: A website with tutorials, articles, and guides on firewall configuration, network security, and related topics.
+Link: https://www.firewall.cx/
+
+5. Nmap Tutorial
+Description: A detailed tutorial on using Nmap, a powerful network scanning and discovery tool.
+Link: https://nmap.org/book/man.html
+
+6. Snort IDS/IPS
+Description: An open-source intrusion detection and prevention system with a large community and extensive documentation.
+Link: https://www.snort.org/
+
+7. OWASP Top Ten Project
+Description: A list of the top ten most critical web application security risks, with explanations and guidance on how to avoid them.
+Link: https://owasp.org/www-project-top-ten/
+
+8. Security Onion
+Description: A free, open-source Linux distribution for intrusion detection, network security monitoring, and log management.
+Link: https://securityonion.net/
+
+9. Cybersecurity and Infrastructure Security Agency (CISA)
+Description: The CISA website offers various resources, best practices, and guidelines for network security.
+Link: https://www.cisa.gov/cybersecurity
+
+10. Hack The Box
+Description: An online platform for students to test their skills in cybersecurity through various CTF challenges and vulnerable machines.
+Link: https://www.hackthebox.eu/
+
+11. OverTheWire
+Description: A series of wargames that help students learn and practice security concepts in a hands-on environment.
+Link: https://overthewire.org/wargames/
+
+12. picoCTF
+Description: A cybersecurity competition for students with a focus on learning and practicing various security concepts through challenges.
+Link: https://picoctf.org/
+
+13. "The Art of Network Segmentation and Monitoring" - Article
+Description: An in-depth article that discusses the importance of network segmentation and monitoring for cybersecurity.
+Link: https://www.networkcomputing.com/network-security/art-network-segmentation-and-monitoring
+
+14. VLANs and Trunking - YouTube Tutorial
+Description: A YouTube tutorial that explains the basics of VLANs, trunking, and inter-VLAN routing.
+Link: https://www.youtube.com/watch?v=V_5zt1O0_tA
+
+15. "Best Practices for Wireless Network Security" - Article
+Description: An article that provides an overview of best practices for securing wireless networks.
+Link: https://www.networkworld.com/article/3236064/best-practices-for-wireless-network-security.html
+
+Remember this as LESSON 3 ADDITIONAL RESOURCES
