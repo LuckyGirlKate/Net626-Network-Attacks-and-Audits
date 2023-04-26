@@ -1,1 +1,60 @@
 Lesson 2 Lecture Outline
+**Lesson 2 Outline: Network Security Fundamentals**
+
+1. Introduction
+   - Importance of network security
+   - Goals of network security
+   - Lesson objectives
+
+2. Network Architecture
+   - OSI model
+   - TCP/IP model
+   - Network devices and their roles
+
+3. Security Protocols
+   - Secure Shell (SSH)
+   - Transport Layer Security (TLS)
+   - Internet Protocol Security (IPsec)
+   - Case study: Heartbleed vulnerability in OpenSSL
+
+4. Common Network Threats
+   - Malware
+   - Phishing
+   - Brute force attacks
+   - Insider threats
+   - Case study: WannaCry ransomware attack
+
+5. Network Security Fundamentals
+   - Defense in depth
+   - Principle of least privilege
+   - Security by design
+   - Incident response planning
+
+6. Network Security Measures
+   - Firewalls
+   - Intrusion Detection Systems (IDS)
+   - Intrusion Prevention Systems (IPS)
+   - Virtual Private Networks (VPNs)
+   - Case study: Stuxnet malware and its impact on industrial control systems
+
+7. Layered Security
+   - Network layer security
+   - Application layer security
+   - End-user security
+
+8. Network Security Best Practices
+   - Patch management
+   - Secure configuration
+   - Network segmentation
+   - Regular audits and assessments
+   - Case study: Equifax data breach and the importance of patch management
+
+9. Challenges and Considerations
+   - Balancing security and usability
+   - Keeping up with evolving threats
+   - Compliance with regulations and standards
+
+10. Conclusion
+    - Importance of network security fundamentals for professionals in cybersecurity and computer networking
+    - Continuous learning and staying up to date with industry developments
+    - Key takeaways from the lesson

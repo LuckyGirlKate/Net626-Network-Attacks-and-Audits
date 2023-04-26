@@ -1,1 +1,36 @@
 Lesson 2 lab Instructions- Professor
+Lesson 2 Lab Setup Instructions for the Professor:
+
+Pre-lab setup:
+
+a. Review the lab instructions and ensure you are familiar with the tools and concepts to be covered.
+b. Prepare the necessary software and tools for the lab:
+
+SSH client (e.g., PuTTY for Windows or the built-in SSH client on macOS and Linux)
+Wireshark
+UFW (Uncomplicated Firewall)
+Virtual Machines and Networking:
+
+a. Verify that the students have access to VMWare Workstation with the necessary licenses to create virtual machines.
+b. Ensure that the students have the necessary VMs set up from Lesson 1:
+
+Kali Linux VM
+Ubuntu Server VM
+c. Ensure that the VMs are configured to have network connectivity with each other and the host machine. The network should be set up as a host-only network to avoid interference with external networks.
+Software installation and configuration:
+
+a. Verify that the necessary software is installed on the Kali Linux and Ubuntu Server VMs:
+
+SSH server on Ubuntu Server VM
+Wireshark on Kali Linux VM
+b. Ensure that the SSH server on the Ubuntu Server VM is up and running, and that the firewall is set up to allow SSH traffic.
+Preparing demonstration materials:
+
+a. Prepare examples and demonstrations for using SSH, TLS, IPsec, UFW, and Wireshark to show the students how to apply these security protocols and tools in practice.
+
+In-class support:
+
+a. Be prepared to assist students with any questions or issues they may encounter during the lab.
+b. Monitor students' progress and provide guidance as needed to ensure they complete the lab successfully.
+
+With these setup instructions, you should be prepared to effectively guide your students through the Lesson 2 Lab on network security fundamentals.

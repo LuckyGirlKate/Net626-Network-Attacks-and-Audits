@@ -1,1 +1,21 @@
 Lesson 2 Key Terms
+Network architecture - The design principles, physical and logical layout, and infrastructure of a network.
+Network security protocol - A set of rules and procedures designed to secure data transmission and communication over a network.
+Security threat - Any potential danger or risk to the confidentiality, integrity, or availability of a network and its resources.
+Confidentiality - The protection of sensitive information from unauthorized access or disclosure.
+Integrity - Ensuring that data is accurate and consistent, and has not been tampered with or modified by unauthorized users.
+Availability - Ensuring that network resources and services are accessible to authorized users when needed.
+OSI model - The Open Systems Interconnection model, a framework for understanding network communication by dividing it into seven layers.
+TCP/IP model - The Transmission Control Protocol/Internet Protocol model, a simplified networking framework used to establish connections and transmit data across the internet.
+Encryption - The process of converting plaintext data into ciphertext, making it unreadable without the appropriate decryption key.
+Authentication - The process of verifying the identity of a user, device, or system attempting to access network resources.
+Authorization - The process of granting or denying access to specific resources based on the authenticated identity of a user or device.
+Network perimeter - The boundary between an organization's internal network and the external networks, such as the internet.
+Firewall - A security device or software that monitors and controls incoming and outgoing network traffic based on predefined security rules.
+Intrusion Detection System (IDS) - A system that monitors network traffic for signs of malicious activity or policy violations and generates alerts when such activity is detected.
+Intrusion Prevention System (IPS) - A system that not only detects potential threats but also takes action to block or prevent them from causing harm to the network.
+Virtual Private Network (VPN) - A secure, encrypted connection between a user or device and a private network, often used to protect data transmission over the public internet.
+Secure Sockets Layer (SSL) - A cryptographic protocol used to secure data transmission over a network, often used in web browsing and email communication.
+Transport Layer Security (TLS) - An updated and more secure version of SSL, also used for securing data transmission over a network.
+Denial of Service (DoS) attack - A type of network attack where an attacker attempts to disrupt the normal functioning of a network or system by overwhelming its resources.
+Man-in-the-middle attack - A type of network attack where an attacker intercepts and potentially alters the communication between two parties without their knowledge.

@@ -1,1 +1,75 @@
 Lesson 2 Lab Instructions - Student
+Lesson 2 Lab: Network Security Fundamentals - Student Instructions
+
+Creating Additional Virtual Machines
+
+a. Open VMware Workstation
+b. Click "Create a New Virtual Machine" or "File > New Virtual Machine"
+c. Choose the installation method (ISO or physical CD/DVD) and click Next
+d. Select the guest operating system (Linux, Ubuntu) and click Next
+e. Customize the virtual machine settings as needed (RAM, CPUs, hard disk size) and click Next
+f. Choose a name and location for the virtual machine, then click Finish
+g. Repeat these steps to create a second virtual machine
+
+Network Configuration
+
+a. Set the network mode for both virtual machines to "Host-Only"
+b. Assign static IP addresses to both virtual machines, ensuring they are on the same subnet
+c. Verify network connectivity between the virtual machines using the ping command
+
+Configuring Network Security Protocols
+
+a. Secure Shell (SSH)
+i. Open a terminal on your main virtual machine
+ii. Run ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+iii. Press Enter to accept the default file location
+iv. Set a passphrase when prompted (optional)
+v. Copy the public key to the second virtual machine using the command: ssh-copy-id user@IP_Address
+vi. Test the secure connection by SSH-ing into the second virtual machine: ssh user@IP_Address
+
+b. Transport Layer Security (TLS)
+i. Install Apache using the command: sudo apt-get install apache2
+ii. Enable SSL using the command: sudo a2enmod ssl
+iii. Create a new directory for your SSL certificates: sudo mkdir /etc/apache2/ssl
+iv. Generate a self-signed certificate using OpenSSL: sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/apache2/ssl/apache.key -out /etc/apache2/ssl/apache.crt
+v. Follow the prompts to enter the required information for the certificate
+vi. Configure the SSL settings for the Apache web server by editing the default-ssl.conf file: sudo nano /etc/apache2/sites-available/default-ssl.conf
+vii. Update the SSLCertificateFile and SSLCertificateKeyFile lines to point to the generated certificate and key
+viii. Enable the SSL site using the command: sudo a2ensite default-ssl
+ix. Restart the Apache service: sudo service apache2 restart
+x. Access the web server using a browser and verify the secure connection (https://)
+
+c. IPsec
+i. Install StrongSwan on both virtual machines: sudo apt-get install strongswan
+ii. Configure the IPsec settings by editing the ipsec.conf file on both virtual machines: sudo nano /etc/ipsec.conf
+iii. Add a connection definition between the two virtual machines using their IP addresses
+iv. Configure the authentication settings by editing the ipsec.secrets file on both virtual machines: sudo nano /etc/ipsec.secrets
+v. Add a shared secret for the connection
+vi. Restart the StrongSwan service on both virtual machines: sudo service strongswan restart
+vii. Test secure communication between the virtual machines using a tool like ping or traceroute
+
+Firewall Configuration and Rules
+
+a. Install the UFW (Uncomplicated Firewall) on your main virtual machine: sudo apt-get install ufw
+b. Enable the UFW with the command: `
+
+
+
+
+
+Kate Wilson
+Please finish generating the student instructions from step 4 forward
+Firewall Configuration and Rules
+
+a. Install the UFW (Uncomplicated Firewall) on your main virtual machine: sudo apt-get install ufw
+b. Enable the UFW with the command: sudo ufw enable
+c. Create rules to block incoming traffic on ports 80 and 443: sudo ufw deny 80/tcp and sudo ufw deny 443/tcp
+d. Verify the rules are active with the command: sudo ufw status
+e. Test the effectiveness of the rules using a port scanner like nmap: nmap -p 80,443 IP_Address
+
+Network Security Monitoring
+
+a. Install Wireshark on your main virtual machine: sudo apt-get install wireshark
+b. Start a new capture by opening Wireshark and selecting an interface to capture on
+c. Allow the capture to run for a few minutes, then stop it
+d. Analyze the captured traffic for potential threats or anomalies by applying filters and examining packet details

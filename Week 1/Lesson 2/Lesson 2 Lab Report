@@ -1,1 +1,52 @@
 Lesson 2 Lab Report
+Lesson 2 Lab Report: Network Security Fundamentals
+
+Name: ___________________________________________
+Date: ____________________________________________
+
+Objective:
+In this lab, you will explore network security fundamentals through the analysis of packet captures and by implementing network security measures on your virtual machines.
+
+Instructions:
+Please complete the following sections and submit the lab report for grading. Include screenshots where indicated to demonstrate your work.
+
+Section 1: Packet Capture Analysis (20 points)
+
+Briefly describe the packet capture scenario provided in the lab instructions. (4 points)
+
+Scenario description: _______________________________________________________________
+Analyze the packet capture using Wireshark and answer the following questions: (12 points)
+
+What protocols did you identify in the packet capture? __________________________________
+Were there any signs of malicious activity? If so, describe them. _______________________
+What recommendations would you make to improve the security of the network in the packet capture? ____________________________________________________________
+Include a screenshot of Wireshark displaying the packet capture analysis. (4 points)
+
+Section 2: Implementing Network Security Measures (40 points)
+
+Describe the security measures you implemented on your virtual machines during the lab. (8 points)
+
+Implemented security measures: _____________________________________________________
+Explain how each security measure helps protect the network from potential threats. (16 points)
+
+Security measure 1: ________________________________________________________________
+Security measure 2: ________________________________________________________________
+Security measure 3: ________________________________________________________________
+Include screenshots of the implemented security measures on your virtual machines. (16 points)
+
+Section 3: Network Security Testing (40 points)
+
+Describe the methods you used to test the effectiveness of your implemented security measures. (8 points)
+
+Testing methods: ___________________________________________________________________
+Report your findings from the security testing. Did your security measures successfully protect the network from threats? Explain your answer. (16 points)
+
+Findings: __________________________________________________________________________
+Explanation: ________________________________________________________________________
+Include screenshots of your security testing results. (16 points)
+
+Conclusion (10 points)
+
+Reflect on the lab experience and the knowledge gained about network security fundamentals. What did you learn, and how will you apply this knowledge to future networking tasks? (10 points)
+Reflection: _________________________________________________________________________
+Please ensure all screenshots are included, and the report is complete before submitting it for grading.

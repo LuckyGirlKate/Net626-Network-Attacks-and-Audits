@@ -1,1 +1,31 @@
 Lesson 2 Lab Outline
+Lesson 2 Lab Outline: Network Security Fundamentals
+
+Lab Introduction (5 minutes)
+
+Overview of the lab objectives
+Recap of Lesson 2 concepts
+Understanding Network Topologies (10 minutes)
+
+Visualizing network topologies in the virtual environment
+Identifying security implications for different topologies
+Configuring Network Security Protocols (20 minutes)
+
+Secure Shell (SSH) configuration and usage
+Configuring Transport Layer Security (TLS) in the virtual environment
+Implementing IPsec for secure communication between virtual machines
+Firewall Configuration and Rules (15 minutes)
+
+Introduction to firewall settings in the virtual environment
+Creating and applying firewall rules to protect network resources
+Testing firewall effectiveness using simulated traffic
+Network Security Monitoring (10 minutes)
+
+Setting up basic network monitoring tools in the virtual environment
+Analyzing network traffic for potential threats
+Reporting and responding to simulated security events
+Lab Summary and Review (5 minutes)
+
+Reviewing the lab objectives and key takeaways
+Discussing the importance of hands-on experience with network security fundamentals
+Addressing any questions or concerns
