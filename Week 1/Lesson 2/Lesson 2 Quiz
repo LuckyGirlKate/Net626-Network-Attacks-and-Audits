@@ -1,1 +1,74 @@
 Lesson 2 Quiz
+LESSON 2 QUIZ
+
+1. Which of the following layers of the OSI model is responsible for end-to-end communication and error recovery?
+a. Network
+b. Transport
+c. Data Link
+d. Session
+
+2. What is the primary purpose of a subnet mask?
+a. To determine the broadcast address
+b. To separate the network and host portions of an IP address
+c. To calculate the number of hosts in a network
+d. To encrypt network traffic
+
+3. Which protocol is responsible for providing a reliable, connection-oriented communication between two devices?
+a. ICMP
+b. TCP
+c. UDP
+d. IP
+
+4. What is the main difference between a switch and a hub in a network?
+a. A switch sends data only to the intended destination, while a hub broadcasts data to all connected devices
+b. A hub sends data only to the intended destination, while a switch broadcasts data to all connected devices
+c. A switch is used for wireless networks, while a hub is used for wired networks
+d. A hub is used for wireless networks, while a switch is used for wired networks
+
+5. In the context of networking, what does NAT stand for?
+a. Network Address Translation
+b. Network Application Tunneling
+c. Network Allocation Table
+d. Network Access Token
+
+6. What type of DNS record is used to map a domain name to an IP address?
+a. A record
+b. MX record
+c. CNAME record
+d. PTR record
+
+7. Which wireless security protocol is considered the most secure and up-to-date?
+a. WEP
+b. WPA
+c. WPA2
+d. WPA3
+
+8. Which of the following is a commonly used port for HTTP traffic?
+a. 21
+b. 22
+c. 80
+d. 443
+
+9. What is the primary purpose of a network router?
+a. To connect multiple devices on a single network
+b. To forward packets between different networks
+c. To provide network security
+d. To manage network bandwidth
+
+10. What is the main function of the Dynamic Host Configuration Protocol (DHCP)?
+a. To allocate IP addresses to devices on a network
+b. To encrypt network traffic
+c. To manage network security
+d. To translate domain names to IP addresses
+
+Answer Key:
+1. b
+2. b
+3. b
+4. a
+5. a
+6. a
+7. d
+8. c
+9. b
+10. a

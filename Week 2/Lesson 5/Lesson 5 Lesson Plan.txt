@@ -1,0 +1,47 @@
+LESSON 5 LESSON PLAN: Understanding Network Penetration Testing
+
+Overview:
+In Lesson 5, students will learn about network penetration testing, its types, and its importance in network auditing. They will gain an understanding of the various methodologies and tools used in network penetration testing, as well as the process of conducting penetration tests to identify vulnerabilities and improve network security.
+
+Lesson Objectives:
+1. Understand the concept of network penetration testing
+2. Differentiate between types of penetration testing
+3. Recognize the importance of penetration testing in network auditing
+4. Become familiar with common penetration testing methodologies and tools
+5. Conduct a basic network penetration test to identify vulnerabilities
+
+Lesson Structure:
+Hour 1 - Lecture
+1. Introduction to network penetration testing (10 minutes)
+2. Types of penetration testing (20 minutes)
+    a. Black box testing
+    b. White box testing
+    c. Gray box testing
+3. Importance of penetration testing in network auditing (10 minutes)
+4. Penetration testing methodologies and tools (15 minutes)
+    a. Open Web Application Security Project (OWASP)
+    b. Penetration Testing Execution Standard (PTES)
+    c. Kali Linux and other common tools
+5. Basic process of conducting a network penetration test (5 minutes)
+
+Hour 2 - Hands-on Lab
+1. Lab setup and instructions (10 minutes)
+2. Selecting a target and gathering information (10 minutes)
+3. Scanning and enumeration (20 minutes)
+4. Exploitation and vulnerability assessment (10 minutes)
+5. Documenting findings and creating a penetration testing report (10 minutes)
+
+Assessment Strategies:
+1. Formative assessment: Throughout the lecture, ask students questions to gauge their understanding of the material and provide clarification as needed.
+2. Lab assessment: Observe students during the hands-on lab to ensure they can properly conduct a basic network penetration test and document their findings.
+3. Summative assessment: Administer a quiz at the end of the lesson to assess students' understanding of network penetration testing concepts, methodologies, and tools.
+
+Materials and Resources:
+1. Presentation slides for lecture content
+2. Computers with internet access for each student
+3. Kali Linux or other penetration testing tools installed on students' computers
+4. Access to a test network or virtual lab environment for hands-on practice
+5. Lesson handouts, including lab instructions and quiz
+
+Next Lesson Overview:
+In Lesson 6, students will explore wireless network security, including various wireless network security protocols and understanding wireless network vulnerabilities. They will also learn about securing wireless networks and detecting potential wireless network intrusions.

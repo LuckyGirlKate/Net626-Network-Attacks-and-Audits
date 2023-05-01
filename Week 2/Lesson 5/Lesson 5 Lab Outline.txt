@@ -1,0 +1,41 @@
+Lesson 5 Lab Outline: Network Penetration Testing
+
+Objective:
+The purpose of this lab exercise is to provide students with hands-on experience in conducting network penetration testing using various tools and techniques on a controlled virtual environment. By the end of the lab, students should be able to perform basic penetration testing tasks and understand the importance of ethical hacking in securing network infrastructure.
+
+Lab Overview:
+1. Setting up the lab environment
+2. Performing network reconnaissance
+3. Scanning for vulnerabilities
+4. Exploiting discovered vulnerabilities
+5. Analyzing and documenting findings
+
+Requirements:
+- VMware Workstation with Kali Linux and Ubuntu Server VMs
+- Additional vulnerable VM (e.g., Metasploitable) for the target system
+- Network penetration testing tools (e.g., Nmap, Metasploit, Wireshark, Burp Suite, etc.)
+
+Lab Instructions:
+
+1. Setting up the lab environment
+   a. Download and install a vulnerable VM (e.g., Metasploitable) as the target system
+   b. Configure the network settings of the VMs to ensure they are on the same virtual network
+
+2. Performing network reconnaissance
+   a. Use Nmap to discover live hosts and open ports in the target network
+   b. Identify the services running on the discovered hosts
+
+3. Scanning for vulnerabilities
+   a. Use a vulnerability scanner (e.g., OpenVAS) to identify potential vulnerabilities in the target system
+   b. Analyze the vulnerability scan results and determine which vulnerabilities to exploit
+
+4. Exploiting discovered vulnerabilities
+   a. Use Metasploit to exploit a selected vulnerability on the target system
+   b. Gain access to the target system and explore the compromised system (e.g., view files, run commands, etc.)
+   c. Perform post-exploitation activities, such as maintaining access, privilege escalation, or data exfiltration
+
+5. Analyzing and documenting findings
+   a. Create a penetration testing report detailing the discovered vulnerabilities, exploited vulnerabilities, and potential impact on the target system
+   b. Provide recommendations for remediation and improving the target system's security posture
+
+Note: Throughout the lab, students should adhere to ethical hacking principles by ensuring proper authorization, respecting the target organization's privacy and property, and only exploiting systems within the scope of the exercise.

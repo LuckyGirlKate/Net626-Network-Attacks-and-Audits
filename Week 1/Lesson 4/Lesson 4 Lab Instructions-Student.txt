@@ -1,0 +1,70 @@
+LESSON 4 STUDENT LAB INSTRUCTIONS
+
+Title: Network Vulnerability Scanning Lab Exercise
+
+Objective:
+- Gain hands-on experience in conducting network vulnerability scans using a popular scanning tool on a virtual environment.
+
+Introduction:
+In this lab exercise, you will learn how to set up a virtual environment with VMware Workstation, install and configure a network vulnerability scanner (OpenVAS) on your Kali Linux virtual machine, perform a network vulnerability scan on your Ubuntu Server virtual machine, analyze the scan results, and implement remediation actions based on the findings.
+
+Safety Guidelines:
+- This exercise is performed in a virtual environment; however, always ensure that you're working on an isolated network to avoid any security risks.
+- Do not use the tools and techniques learned in this lab on unauthorized systems or networks.
+
+Lab Environment Setup:
+
+1. Ensure that your VMware Workstation is installed and running on your PC.
+2. Confirm that you have the Kali Linux and Ubuntu Server virtual machines set up and running on VMware Workstation.
+
+Step-by-Step Lab Procedure:
+
+1. Prepare the virtual environment:
+   - Verify that your Kali Linux and Ubuntu Server virtual machines are running and networked together. Make a note of the IP addresses of both virtual machines.
+
+2. Install and configure OpenVAS on Kali Linux:
+   - Open the terminal in your Kali Linux virtual machine.
+   - Run the following command to update your system: `sudo apt update && sudo apt upgrade -y`
+   - Install OpenVAS by running: `sudo apt install openvas -y`
+   - Configure OpenVAS by running: `sudo openvas-setup`
+   - Note the admin username and password generated during the setup process.
+   - Update the vulnerability scanner's database with the latest vulnerability signatures by running: `sudo openvas-feed-update`
+
+3. Access the OpenVAS web interface:
+   - Open a web browser in your Kali Linux virtual machine.
+   - Navigate to `https://127.0.0.1:9392` (replace the IP address with the Kali Linux IP address if required).
+   - Log in to OpenVAS using the admin username and password from Step 2.
+
+4. Perform a network vulnerability scan:
+   - In the OpenVAS web interface, click on "Scans" and then "Tasks" in the left menu.
+   - Click on the "New Task" icon at the top.
+   - Provide a name and description for the task.
+   - For "Scan Targets," click the "Create a new target" icon and enter the IP address of the Ubuntu Server virtual machine. Click "Create" to save the target.
+   - Choose the "Full and fast" scan configuration.
+   - Click "Create" to start the scan.
+   - Monitor the scan progress and ensure that it completes successfully.
+
+5. Analyze the scan results:
+   - In the OpenVAS web interface, click on "Scans" and then "Results" in the left menu.
+   - Review the vulnerabilities discovered on the Ubuntu Server virtual machine.
+   - Categorize the vulnerabilities based on their severity and potential impact on the network.
+
+6. Implement remediation actions:
+   - Refer to the suggested remediation actions in the scan results.
+   - Log in to the Ubuntu Server virtual machine and implement the remediation actions accordingly (e.g., apply patches, update software, or adjust configurations).
+
+7. Verify remediation:
+   - In the OpenVAS web interface, return to the "Tasks" section.
+   - Click the "Play" button next to the previous scan to start a new scan.
+   - Monitor the scan progress and ensure that it completes successfully.
+   - Review the new scan results to verify that the remediation actions have been effective.
+
+Questions to Answer:
+1. What were themost critical vulnerabilities discovered in the initial scan?
+2. What remediation actions did you implement to address the discovered vulnerabilities?
+3. Were there any false positives in the scan results? If so, how did you identify them?
+4. How did the results of the initial scan compare to the results of the verification scan?
+5. What are some best practices for maintaining network security and vulnerability management in a real-world environment?
+
+Conclusion:
+In this lab exercise, you gained hands-on experience with network vulnerability scanning using OpenVAS on a virtual environment. You learned how to set up the lab environment, install and configure a network vulnerability scanner, perform a scan, analyze the results, and implement remediation actions based on the findings. This practical experience will help you better understand the importance of network vulnerability scanning and how to apply these techniques in real-world scenarios.

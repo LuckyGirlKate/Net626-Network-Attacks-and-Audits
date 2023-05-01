@@ -1,1 +1,361 @@
-Week 1 Exam
+
+WEEK 1 EXAM
+
+1. What is the primary goal of cybersecurity?
+a) Protecting information and information systems
+b) Detecting vulnerabilities in networks
+c) Ensuring compliance with security policies
+d) Developing new hacking techniques
+
+2. Which of the following is NOT a type of network vulnerability scanner?
+a) Active scanner
+b) Passive scanner
+c) Agent-based scanner
+d) Browser-based scanner
+
+3. Which of the following is an advantage of using a passive scanner over an active scanner?
+a) Detects a wider range of vulnerabilities
+b) Identifies live systems and open ports
+c) Non-intrusive, low risk of disrupting network operations
+d) Provides real-time insights
+
+4. What is the primary difference between a vulnerability assessment and a penetration test?
+a) Vulnerability assessment focuses on identifying vulnerabilities, while penetration testing focuses on exploiting them.
+b) Penetration testing focuses on identifying vulnerabilities, while vulnerability assessment focuses on exploiting them.
+c) Vulnerability assessment is always performed by external organizations, while penetration testing is performed internally.
+d) Penetration testing is always performed by external organizations, while vulnerability assessment is performed internally.
+
+5. Which of the following was a significant global ransomware attack in 2017 that exploited a known vulnerability in the Windows operating system?
+a) WannaCry
+b) Equifax
+c) NotPetya
+d) Heartbleed
+
+6. Which of the following tools is used for network vulnerability scanning?
+a) Wireshark
+b) Nessus
+c) Metasploit
+d) Nmap
+
+7. Which type of network scanner deploys software agents on target systems to provide continuous monitoring and vulnerability assessment?
+a) Active scanner
+b) Passive scanner
+c) Agent-based scanner
+d) Cloud-based scanner
+
+8. The Equifax data breach in 2017 resulted from an unpatched vulnerability in which type of software?
+a) Database software
+b) Operating system
+c) Web application software
+d) Network monitoring software
+
+9. In the context of network vulnerability scanning, what does a false positive refer to?
+a) A real vulnerability that is not detected by the scanner
+b) A non-existent vulnerability that is flagged by the scanner
+c) An existing vulnerability that is correctly identified by the scanner
+d) A vulnerability that is detected but cannot be exploited
+
+10. Which of the following challenges must cybersecurity professionals consider when performing network vulnerability scanning?
+a) Balancing risk and operational impact
+b) Ensuring compliance with security policies and regulations
+c) Staying ahead of evolving threats
+d) All of the above
+
+11. A vulnerability that allows an attacker to execute arbitrary code on a target system is known as:
+a) Remote code execution vulnerability
+b) Privilege escalation vulnerability
+c) Information disclosure vulnerability
+d) Denial of service vulnerability
+
+12. What is the process of systematically identifying, assessing, and prioritizing vulnerabilities in an organization's network called?
+a) Vulnerability scanning
+b) Penetration testing
+c) Vulnerability management
+d) Risk assessment
+
+13. Which of the following is NOT a key motivation for network vulnerability scanning?
+a) Identifying weaknesses in network infrastructure
+b) Ensuring compliance with security policies and regulations
+c) Evaluating the effectiveness of existing security measures
+d) Testing the network's resilience to DDoS attacks
+
+14. Which of the following is an example of an active scanner?
+a) Wireshark
+b) Tenable Nessus
+c)Snort
+d) Tripwire
+
+15. Which of the following is an example of a passive scanner?
+a) Nmap
+b) Wireshark
+c) Metasploit
+d) Burp Suite
+
+16. Which of the following is NOT an advantage of cloud-based scanners?
+a) Easy deployment and management
+b) Scalable and cost-effective
+c) Accessible from any location
+d) In-depth analysis of target systems
+
+17. What is the primary purpose of network vulnerability scanning?
+a) To identify and exploit vulnerabilities in a network
+b) To identify and prioritize vulnerabilities in a network
+c) To provide continuous monitoring and real-time vulnerability detection
+d) To assess an organization's overall security posture
+
+18. Which of the following is a key aspect of vulnerability management?
+a) Coordinating remediation efforts
+b) Conducting regular penetration tests
+c) Developing custom exploits for identified vulnerabilities
+d) Encrypting all sensitive data on the network
+
+19. In the context of network vulnerability scanning, what does a false negative refer to?
+a) A real vulnerability that is not detected by the scanner
+b) A non-existent vulnerability that is flagged by the scanner
+c) An existing vulnerability that is correctly identified by the scanner
+d) A vulnerability that is detected but cannot be exploited
+
+20. What was the primary attack vector used by the NotPetya malware in 2017?
+a) Email phishing
+b) Vulnerabilities in Windows SMB services
+c) Web application vulnerabilities
+d) Weak passwords and lack of multi-factor authentication
+
+21. Which of the following is NOT a key consideration for cybersecurity professionals when performing network vulnerability scanning?
+a) Keeping up with new vulnerabilities and threats
+b) Ensuring 100% coverage of all possible vulnerabilities
+c) Managing false positives and false negatives
+d) Balancing risk and operational impact
+
+22. What is the primary difference between agent-based and agentless scanners?
+a) Agent-based scanners deploy software agents on target systems, while agentless scanners do not.
+b) Agentless scanners deploy software agents on target systems, while agent-based scanners do not.
+c) Agent-based scanners are always cloud-based, while agentless scanners are always on-premises.
+d) Agentless scanners are always cloud-based, while agent-based scanners are always on-premises.
+
+23. Which of the following is a key benefit of continuous network vulnerability scanning?
+a) Minimizing the attack surface
+b) Ensuring that all vulnerabilities are identified and exploited
+c) Providing real-time insights and detection
+d) Reducing the need for patch management
+
+24. Which of the following is a key motivation for organizations to conduct regular network vulnerability scanning?
+a) Demonstrating due diligence and compliance
+b) Identifying all possible attack vectors
+c) Developing new attack techniques
+d) Assessing the network's resilience to DDoS attacks
+
+25. In which industry did the WannaCry ransomware attack cause significant disruptions in 2017?
+a) Healthcare
+b) Transportation
+c) Finance
+d) Telecommunications
+
+26. Which of the following is an example of a tool that can be used for network vulnerability scanning?
+a) Nmap
+b) Wireshark
+c) Metasploit
+d) Tcpdump
+
+27. In the context of network vulnerability scanning, what does a true positive refer to?
+a) A real vulnerability that is not detected by the scanner
+b) A non-existent vulnerability that is flagged by the scanner
+c) An existing vulnerability that is correctly identified by the scanner
+d) A vulnerability that is detected but cannot be exploited
+
+28. Which type of vulnerability scanner can be difficult for security systems to detect?
+a) Active scanner
+b) Passive scanner
+c) Agent-based scanner
+d) Cloud-based scanner
+
+29. What is the primary purpose of patch management in the context of network vulnerability scanning?
+a) To identify and prioritize vulnerabilities in a network
+b) To provide continuous monitoring and real-time vulnerability detection
+c) To fix identified vulnerabilities in software and systems
+d) To assess an organization's overall security posture
+
+30. Which of the following is a key aspect of an effective vulnerability management program?
+a) Regularly updating security policies and procedures
+b) Conducting penetration tests at least once a year
+c) Ensuring that all identified vulnerabilities are exploited
+d) Implementing strong encryption for sensitive data
+
+31. In which of the following scenarios would an organization likely choose to use an agentless scanner?
+a) When a high degree of customization is required
+b) When continuous monitoring and real-time vulnerability detection are essential
+c) When the target systems are difficult to access or manage
+d) When the target systems are part of a cloud infrastructure
+
+32. Which of the following is an example of a vulnerability that could be identified through network vulnerability scanning?
+a) Weak passwords
+b) Unencrypted data transmission
+c) Outdated or unpatched software
+d) Social engineering attacks
+
+33. What is the primary difference between internal and external network vulnerability scanning?
+a) Internal scanning focuses on identifying vulnerabilities within an organization's network, while external scanning focuses on vulnerabilities accessible from the internet.
+b) External scanning focuses on identifying vulnerabilities within an organization's network, while internal scanning focuses on vulnerabilities accessible from the internet.
+c) Internal scanning is always performed by internal staff, while external scanning is performed by external organizations.
+d) External scanning is always performed by internal staff, while internal scanning is performed by external organizations.
+
+34. In the context of network vulnerability scanning, what is the primary benefit of using an active scanner?
+a) It provides real-time insights and detection
+b) It is non-intrusive and has a low risk of disrupting network operations
+c) It can identify live systems and open ports
+d) It can detect a wide range of vulnerabilities
+
+35. What is the primary goal of vulnerability management?
+a) To identify and exploit vulnerabilities in a network
+b) To identify and prioritize vulnerabilities in a network
+c) To fix identified vulnerabilities in software and systems
+d) To assess an organization's overall security posture
+
+36. Which of the following is a key challenge faced by cybersecurity professionals when performing network vulnerability scanning?
+a) Ensuring that all vulnerabilities are identified and exploited
+b) Balancing risk and operational impact
+c) Staying ahead of evolving threats
+d) Reducing the need for patch management
+
+37. Which type of vulnerability scanner can provide a holistic view of an organization's security posture?
+a) Active scanner
+b) Passive scanner
+c) Agent-based scanner
+d) Cloud-based scanner
+
+38. Which of the following is a key benefit of agent-based scanners?
+a) They are non-intrusive and have a low risk of disrupting network operations
+b) They can detect a wide range of vulnerabilities
+c) They provide continuous monitoring and real-time vulnerability detection
+d) They can identify live systems and open ports
+
+39. In which of the following scenarios would an organization likely choose to use a cloud-based scanner?
+a) When the target systems are part of a cloud infrastructure
+b) When continuous monitoring and real-time vulnerability detection are essential
+c) When a high degree of customization is required
+d) When the target systems are difficult to access or manage
+
+40. What is the primary purpose of network vulnerability scanning in the context of vulnerability management?
+a) To identify and prioritize vulnerabilities in a network
+b) To fix identified vulnerabilities in software and systems
+c) To assessan organization's overall security posture
+d) To provide continuous monitoring and real-time vulnerability detection
+
+41. Which of the following is NOT a key aspect of an effective vulnerability management program?
+a) Identifying and prioritizing vulnerabilities
+b) Remediating vulnerabilities in a timely manner
+c) Regularly updating security policies and procedures
+d) Ignoring false positives
+
+42. Which of the following is a key challenge faced by cybersecurity professionals when managing network vulnerabilities?
+a) Ensuring that all vulnerabilities are identified and exploited
+b) Staying ahead of evolving threats
+c) Balancing risk and operational impact
+d) Reducing the need for patch management
+
+43. In the context of network vulnerability scanning, what does a true negative refer to?
+a) A real vulnerability that is not detected by the scanner
+b) A non-existent vulnerability that is flagged by the scanner
+c) An existing vulnerability that is correctly identified by the scanner
+d) A non-existent vulnerability that is not flagged by the scanner
+
+44. Which of the following is a key benefit of using a passive scanner?
+a) Detecting a wider range of vulnerabilities
+b) Identifying live systems and open ports
+c) Non-intrusive, low risk of disrupting network operations
+d) Providing real-time insights
+
+45. What is the primary purpose of penetration testing in the context of vulnerability management?
+a) To identify and prioritize vulnerabilities in a network
+b) To fix identified vulnerabilities in software and systems
+c) To assess an organization's overall security posture
+d) To exploit identified vulnerabilities and assess their potential impact
+
+46. Which of the following is a key motivation for organizations to conduct regular network vulnerability scanning?
+a) Developing new attack techniques
+b) Assessing the network's resilience to DDoS attacks
+c) Identifying all possible attack vectors
+d) Demonstrating due diligence and compliance
+
+47. In the context of network vulnerability scanning, what is the primary benefit of using an agentless scanner?
+a) It provides real-time insights and detection
+b) It is non-intrusive and has a low risk of disrupting network operations
+c) It can identify live systems and open ports
+d) It is easier to deploy and manage
+
+48. What is the primary goal of patch management in the context of vulnerability management?
+a) To identify and prioritize vulnerabilities in a network
+b) To fix identified vulnerabilities in software and systems
+c) To assess an organization's overall security posture
+d) To provide continuous monitoring and real-time vulnerability detection
+
+49. Which of the following is a key challenge faced by cybersecurity professionals when managing network vulnerabilities?
+a) Ensuring that all vulnerabilities are identified and exploited
+b) Staying ahead of evolving threats
+c) Balancing risk and operational impact
+d) Reducing the need for patch management
+
+50. In which of the following scenarios would an organization likely choose to use an active scanner?
+a) When the target systems are part of a cloud infrastructure
+b) When continuous monitoring and real-time vulnerability detection are essential
+c) When a high degree of customization is required
+d) When the target systems are difficult to access or manage
+
+
+
+Answer Key:
+
+1. c) Confidentiality, Integrity, and Availability
+2. b) Firewall
+3. a) Zero-day vulnerability
+4. d) Patch management
+5. a) Confidentiality
+6. c) Risk assessment
+7. d) Social engineering
+8. a) Encryption
+9. b) DDoS attack
+10. c) Multi-factor authentication
+
+11. a) Open ports
+12. d) Router
+13. c) Man-in-the-middle attack
+14. b) Data breach
+15. d) Intrusion Detection System (IDS)
+16. a) Phishing
+17. c) Vulnerability
+18. b) Threat
+19. d) Risk
+20. a) Penetration testing
+
+21. b) False positive
+22. c) Passive scanning
+23. d) Agent-based scanning
+24. a) Cloud-based scanning
+25. b) Ensuring compliance with security policies and regulations
+26. c) Evaluating the effectiveness of existing security measures
+27. a) Identifying weaknesses in network infrastructure
+28. d) Assessing the risk of potential attacks and data breaches
+29. a) Staying ahead of evolving threats
+30. c) Enhancing overall security posture
+
+31. d) Demonstrating due diligence and compliance
+32. b) Minimizing the attack surface
+33. c) Balancing risk and operational impact
+34. a) Managing false positives and false negatives
+35. d) Coordinating remediation efforts
+36. c) Keeping up with new vulnerabilities and threats
+37. b) True/false
+38. d) Matching
+39. a) Fill in the blank
+40. c) To assess an organization's overall security posture
+
+41. d) Ignoring false positives
+42. c) Balancing risk and operational impact
+43. d) A non-existent vulnerability that is not flagged by the scanner
+44. c) Non-intrusive, low risk of disrupting network operations
+45. d) To exploit identified vulnerabilities and assess their potential impact
+46. d) Demonstrating due diligence and compliance
+47. d) It is easier to deploy and manage
+48. b) To fix identified vulnerabilities in software and systems
+49. c) Balancing risk and operational impact
+50. c) When a high degree of customization is required

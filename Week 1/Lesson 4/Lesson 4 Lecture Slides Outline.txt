@@ -1,0 +1,131 @@
+LESSON 4 POWERPOINT
+
+Slide 1: Introduction
+- Recap of Lesson 3
+- Importance of network vulnerability scanning in network security
+- Slide Image Suggestion: Network security graphic
+- No specific example or case study
+
+Slide 2: Introduction to Network Vulnerability Scanning
+- Definition of network vulnerability scanning
+- Goals of network vulnerability scanning
+- Key components of network vulnerability scanning
+- Slide Image Suggestion: Computer with scanner software
+- Real-world example: The WannaCry ransomware attack and the importance of vulnerability scanning
+
+Slide 3: Types of Network Vulnerability Scanners - Overview
+- Active scanners
+- Passive scanners
+- Agent-based scanners
+- Cloud-based scanners
+- Slide Image Suggestion: Four different icons representing each scanner type
+- No specific example or case study
+
+Slide 4: Active Scanners
+- Definition and characteristics
+- Advantages and disadvantages
+- Slide Image Suggestion: Active scanner icon
+- No specific example or case study
+
+Slide 5: Passive Scanners
+- Definition and characteristics
+- Advantages and disadvantages
+- Slide Image Suggestion: Passive scanner icon
+- No specific example or case study
+
+Slide 6: Agent-based Scanners
+- Definition and characteristics
+- Advantages and disadvantages
+- Slide Image Suggestion: Agent-based scanner icon
+- No specific example or case study
+
+Slide 7: Cloud-based Scanners
+- Definition and characteristics
+- Advantages and disadvantages
+- Slide Image Suggestion: Cloud-based scanner icon
+- No specific example or case study
+
+Slide 8: Comparison of Different Types of Scanners
+- Pros and cons of each type
+- Factors to consider when choosing a scanner
+- Slide Image Suggestion: Comparison table or chart
+- Case study: Choosing the right scanner for a medium-sized enterprise
+
+Slide 9: Network Vulnerability Scanning Process - Overview
+- Preparation
+- Scanning
+- Analysis and identification of vulnerabilities
+- Reporting and remediation
+- Verification
+- Slide Image Suggestion: Process flowchart
+- No specific example or case study
+
+Slide 10: Preparation
+- Planning and scoping
+- Permissions and communication
+- Slide Image Suggestion: Checklist or planning icon
+- No specific example or case study
+
+Slide 11: Scanning
+- Types of scans (credentialed, non-credentialed)
+- Selecting targets
+- Slide Image Suggestion: Magnifying glass over a network
+- No specific example or case study
+
+Slide 12: Analysis and Identification of Vulnerabilities
+- Interpreting scan results
+- Categorizing vulnerabilities
+- Slide Image Suggestion: Spreadsheet or graph showing vulnerabilities
+- No specific example or case study
+
+Slide 13: Reporting and Remediation
+- Creating a vulnerability report
+- Suggesting remediation actions
+- Slide Image Suggestion: Report or presentation icon
+- No specific example or case study
+
+Slide 14: Verification
+- Re-testing vulnerabilities
+- Confirming successful remediation
+- Slide Image Suggestion: Checkmark or verification icon
+- No specific example or case study
+
+Slide 15: Interpreting Scan Results
+- Analyzing scan results
+- Prioritizing vulnerabilities
+- Developing a mitigation strategy
+- Slide Image Suggestion: Bar graph or pie chart of vulnerabilities
+- Example: Interpreting a vulnerability scan report from a popular scanner (e.g., Nessus)
+
+Slide 16: Analyzing Scan Results
+- Identifying false positives
+- Understanding risk ratings
+- Slide Image Suggestion: Scan result screenshot
+- No specific example or case study
+
+Slide 17: Prioritizing Vulnerabilities (Continued)
+- Considering the impact and likelihood
+- Ranking vulnerabilities
+- Slide Image Suggestion: Risk matrix or prioritization chart
+- No specific example or case study
+
+Slide 18: Developing a Mitigation Strategy
+- Remediation techniques
+- Patch management
+- Configuration management
+- Slide Image Suggestion: Shield or lock icon
+- Case study: Developing a mitigation strategy for a financial institution after a vulnerability scan
+
+Slide 19: Vulnerability Scanning Best Practices
+- Regular scanning
+- Collaboration with stakeholders
+- Continuous improvement
+- Slide Image Suggestion: Lightbulb or best practices icon
+- No specific example or case study
+
+Slide 20: Conclusion and Next Steps
+- Recap of key concepts
+- Importance of network vulnerability scanning
+- Preparing for the hands-on lab
+- Slide Image Suggestion: Recap or next steps icon
+- No specific example or case study

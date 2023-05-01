@@ -1,0 +1,59 @@
+LESSON 4 LAB OUTLINE
+
+Title: Network Vulnerability Scanning Lab Exercise
+
+Objective:
+- Provide hands-on experience in conducting network vulnerability scans using a popular scanning tool on a virtual environment.
+
+Lab Overview:
+1. Introduction to the lab environment
+2. Setting up the virtual machines
+3. Installing and configuring a network vulnerability scanner
+4. Conducting a network vulnerability scan
+5. Analyzing scan results and identifying vulnerabilities
+6. Reporting and remediating vulnerabilities
+7. Verifying remediation
+
+Lab Requirements:
+- VMware Workstation
+- Kali Linux virtual machine
+- Ubuntu Server virtual machine
+- A popular network vulnerability scanner (e.g., OpenVAS, Nessus, or Nexpose)
+- Internet connection for downloading the scanner and updates
+
+Lab Setup:
+1. Ensure that VMware Workstation is installed on the student's PC.
+2. Confirm that both Kali Linux and Ubuntu Server virtual machines are set up and running on the student's PC.
+3. If needed, provide instructions for setting up additional virtual machines or services for the lab.
+
+Lab Exercise:
+
+1. Introduction to the lab environment
+   - Briefly review the lab objectives and environment.
+
+2. Setting up the virtual machines
+   - Ensure that the Kali Linux and Ubuntu Server virtual machines are running and networked together.
+
+3. Installing and configuring a network vulnerability scanner
+   - Choose a popular network vulnerability scanner (e.g., OpenVAS, Nessus, or Nexpose).
+   - Follow the installation instructions to install and configure the scanner on the Kali Linux virtual machine.
+   - Update the vulnerability scanner's database with the latest vulnerability signatures.
+
+4. Conducting a network vulnerability scan
+   - Plan and scope the network vulnerability scan.
+   - Use the vulnerability scanner to conduct a credentialed and non-credentialed scan of the Ubuntu Server virtual machine.
+   - Monitor the scan progress and ensure that the scans complete successfully.
+
+5. Analyzing scan results and identifying vulnerabilities
+   - Review the scan results and identify any vulnerabilities discovered on the Ubuntu Server virtual machine.
+   - Categorize the vulnerabilities based on their severity and potential impact on the network.
+
+6. Reporting and remediating vulnerabilities
+   - Create a vulnerability report detailing the findings and suggesting appropriate remediation actions.
+   - Implement the suggested remediation actions on the Ubuntu Server virtual machine.
+
+7. Verifying remediation
+   - Re-scan the Ubuntu Server virtual machine to verify that the remediation actions have been successful.
+   - Discuss the importance of regular vulnerability scanning and continuous improvement in network security.
+
+At the end of the lab exercise, students should have gained hands-on experience in conducting network vulnerability scans, analyzing scan results, and implementing remediation actions to address identified vulnerabilities.

@@ -1,0 +1,41 @@
+LESSON 4 KEY TERMS
+
+1. Vulnerability scanning - The process of identifying and assessing potential security weaknesses in a computer network or system.
+
+2. Active scanning - A type of vulnerability scanning that involves directly interacting with target systems to identify vulnerabilities by sending probing requests and analyzing responses.
+
+3. Passive scanning - A type of vulnerability scanning that monitors network traffic without directly interacting with target systems, analyzing network packets to identify potential vulnerabilities and misconfigurations.
+
+4. Agent-based scanning - A type of vulnerability scanning that deploys software agents on target systems to provide continuous monitoring and vulnerability assessment, with agents reporting back to a central management console.
+
+5. Cloud-based scanning - A type of vulnerability scanning hosted on a remote server and accessed through a web browser, providing centralized vulnerability assessment and management without the need for on-premises hardware and software.
+
+6. False positive - An incorrect identification of a vulnerability or security issue that does not actually exist.
+
+7. False negative - A failure to identify a real vulnerability or security issue that is present in a system.
+
+8. Patch management - The process of identifying, acquiring, installing, and verifying patches for software vulnerabilities to keep systems up to date and secure.
+
+9. Risk assessment - The process of identifying, analyzing, and evaluating the potential risks and vulnerabilities in a computer network or system.
+
+10. Compliance - Adhering to industry-specific regulations and standards related to cybersecurity and data protection.
+
+11. Intrusion Detection System (IDS) - A system that monitors network traffic for signs of malicious activity or policy violations and generates alerts for detected events.
+
+12. Attack surface - The collection of points where an attacker can attempt to enter or extract data from a system or network.
+
+13. Remediation - The process of addressing and resolving identified vulnerabilities and security issues in a network or system.
+
+14. Threat intelligence - Information about existing and emerging cybersecurity threats and vulnerabilities used by organizations to protect their systems and networks.
+
+15. Security posture - The overall security status of an organization's networks, systems, and data, considering the effectiveness of its security controls and processes.
+
+16. Network segmentation - The practice of dividing a computer network into smaller, separate subnetworks to improve security and performance.
+
+17. Penetration testing - A proactive approach to cybersecurity that involves simulating attacks on a network or system to identify vulnerabilities and test the effectiveness of security measures.
+
+18. Common Vulnerabilities and Exposures (CVE) - A publicly accessible database of known security vulnerabilities in software and hardware, maintained by the MITRE Corporation.
+
+19. Vulnerability assessment - The process of identifying, quantifying, and prioritizing vulnerabilities in a network or system.
+
+20. Security Information and Event Management (SIEM) - A technology that collects, analyzes, and correlates security event data from various sources to identify potential security incidents and support incident response efforts.

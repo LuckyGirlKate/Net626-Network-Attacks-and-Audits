@@ -1,0 +1,75 @@
+LESSON 4 PROFESSOR LAB INSTRUCTIONS
+
+Introduction:
+In this 1-hour lab exercise, students will learn how to perform network vulnerability scanning using OpenVAS on a Kali Linux virtual machine (VM) and an Ubuntu Server VM. They will learn how to set up the lab environment, install and configure OpenVAS, perform an initial vulnerability scan, analyze the results, implement remediation actions, and perform a verification scan.
+
+Step-by-Step Procedure:
+
+1. Lab Environment Setup
+   - Ensure that all students have VMware Workstation, Kali Linux VM, and Ubuntu Server VM installed on their systems.
+   - Provide guidance on configuring the network settings for both VMs to ensure that they can communicate with each other within an isolated environment.
+   - Divide the class into groups if necessary, and provide each group with unique network configurations and VM settings to create different scenarios.
+
+2. Installing OpenVAS on Kali Linux VM
+   - Instruct students to open a terminal window in Kali Linux.
+   - Have students run the following command to update the system and install OpenVAS: 
+     ```
+     sudo apt update && sudo apt install openvas -y
+     ```
+   - After installation, guide students to update the OpenVAS database by running:
+     ```
+     sudo openvas -u
+     ```
+   - Instruct students to start the OpenVAS services using the following command:
+     ```
+     sudo systemctl start openvas
+     ```
+   - Once the services are started, provide guidance on accessing the web interface by navigating to https://localhost:9392 in a web browser.
+
+3. Creating a Target for Scanning
+   - Have students log in to the OpenVAS web interface using their Kali Linux credentials.
+   - Instruct them to click on "Targets" under the "Configuration" menu.
+   - Guide students to click the "+" icon to create a new target.
+   - Direct them to enter the IP address of their Ubuntu Server VM in the "Hosts" field and provide a name for the target.
+   - Emphasize the importance of accurate target configurations for effective vulnerability scanning.
+
+4. Running the Initial Vulnerability Scan
+   - Instruct students to click on "Tasks" in the left-hand menu of the OpenVAS web interface.
+   - Guide them to click the "+" icon to create a new task.
+   - Have students provide a name for the task, select their previously created target, and choose a scan configuration (e.g., "Full and Fast").
+   - Direct students to click the "Create" button to initiate the vulnerability scan.
+   - Encourage students to monitor the progress of their vulnerability scan and note any issues or errors that may arise during the process.
+
+5. Analyzing Scan Results
+   - After the scan is completed, instruct students to click on "Results" in the left-hand menu of the OpenVAS web interface.
+   - Guide them to review the discovered vulnerabilities and their severity levels.
+   - Emphasize the importance of understanding the severity and impact of discovered vulnerabilities.
+
+6. Implementing Remediation Actions
+   - Encourage students to research the vulnerabilities discovered during the initial scan and identify appropriate remediation actions.
+   - Guide students through implementing these remediation actions on their Ubuntu Server VM, such as applying patches, updating software, or modifying configurations.
+   - Emphasize the importance of considering the impact and feasibility of each remediation action before implementing it.
+
+7. Verification Scan
+   - Direct students to return to the OpenVAS web interface and click on "Tasks" in the left-hand menu.
+   - Instruct them to click on the "Play" icon next to their initial scan task to perform a verification scan.
+   - Encourage students to monitor the progress of the verification scan and note any issues or errors that   may arise during the process.
+
+8. Analyzing Verification Scan Results
+   - After the verification scan is completed, instruct students to click on "Results" in the left-hand menu of the OpenVAS web interface.
+   - Guide them to review the discovered vulnerabilities again and compare them to the initial scan results.
+   - Encourage students to analyze the effectiveness of their remediation actions by observing the changes in the severity and number of vulnerabilities.
+   - Emphasize the importance of continuous vulnerability scanning and remediation to maintain a secure network environment.
+
+Safety Guidelines:
+- Remind students that vulnerability scanning should only be performed on their own systems or with proper authorization from the system owner.
+- Caution students about the potential consequences of unauthorized scanning, such as legal and ethical issues.
+- Encourage students to follow responsible disclosure practices if they discover vulnerabilities in third-party systems.
+
+Tips for Professors:
+- Be available to answer questions and provide clarification on the lab procedures, especially when students are implementing remediation actions.
+- Encourage students to think critically about the vulnerabilities they discover and the potential impact on their network environment.
+- Consider providing additional resources or supplementary material on vulnerability scanning and remediation techniques for students who may want to explore the topic further.
+
+Group Scenarios:
+If students are working in groups, consider assigning each group a unique scenario by providing different configurations, vulnerabilities, or remediation challenges on their Ubuntu Server VM. This will allow students to share their experiences and learn from each other's approaches to securing their network environments.

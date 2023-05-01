@@ -1,1 +1,74 @@
 Lesson 1 Quiz
+LESSON 1 QUIZ
+
+1. What is the primary goal of information security?
+a. To ensure the availability of data
+b. To protect the confidentiality, integrity, and availability of data
+c. To prevent unauthorized access to data
+d. To maintain the integrity of data
+
+2. Which type of attack involves an attacker intercepting communication between two parties and secretly relaying messages between them?
+a. Denial of Service (DoS)
+b. Man-in-the-Middle (MITM)
+c. Phishing
+d. Brute force
+
+3. What is the role of encryption in information security?
+a. To prevent unauthorized access to data
+b. To ensure the integrity of data
+c. To convert plaintext data into ciphertext
+d. To authenticate users
+
+4. Which of the following is NOT a component of the CIA triad?
+a. Confidentiality
+b. Integrity
+c. Authentication
+d. Availability
+
+5. What is social engineering?
+a. An attack vector that relies on manipulating people to gain access to sensitive information
+b. A technique used to bypass security measures
+c. A method of intercepting data in transit
+d. A type of network attack
+
+6. What is the primary purpose of a Virtual Private Network (VPN)?
+a. To provide encrypted communication between remote users and a private network
+b. To secure wireless networks
+c. To authenticate users
+d. To prevent unauthorized access to data
+
+7. What is the difference between a vulnerability and an exploit?
+a. A vulnerability is a weakness in a system, while an exploit is a method for taking advantage of that weakness
+b. A vulnerability is a method for taking advantage of a weakness, while an exploit is a weakness in a system
+c. A vulnerability is a type of attack, while an exploit is a method for preventing that attack
+d. A vulnerability is a type of threat, while an exploit is a type of vulnerability
+
+8. What is the principle of least privilege?
+a. Granting users the minimum level of access necessary to perform their job duties
+b. Allowing users full access to all resources on a system
+c. Restricting users from accessing any resources on a system
+d. Granting users access to resources based on their job title
+
+9. Which of the following is a type of physical security control?
+a. Firewalls
+b. Intrusion detection systems
+c. Security cameras
+d. Encryption
+
+10. Which type of attack involves overwhelming a system with traffic or requests to consume its resources and make it unavailable to legitimate users?
+a. Denial of Service (DoS)
+b. Man-in-the-Middle (MITM)
+c. Phishing
+d. Brute force
+
+Answer Key:
+1. b
+2. b
+3. c
+4. c
+5. a
+6. a
+7. a
+8. a
+9. c
+10. a

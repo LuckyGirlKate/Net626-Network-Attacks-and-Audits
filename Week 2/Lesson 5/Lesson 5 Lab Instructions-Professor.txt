@@ -1,0 +1,41 @@
+LESSON 5 PROFESSOR LAB INSTRUCTIONS
+
+Introduction:
+In this lab exercise, students will practice network penetration testing using the skills and knowledge they acquired during the lecture. They will be setting up a virtual network environment and simulating an attack on a vulnerable system using a popular penetration testing tool. 
+
+Lab environment setup:
+Ensure that students have the following tools and virtual machines installed and set up:
+
+1. VMware Workstation
+2. Kali Linux virtual machine
+3. Ubuntu server virtual machine (with a vulnerable service or application)
+
+Step-by-Step Procedure:
+
+1. Begin the lab by dividing the class into six groups. Assign each group a unique scenario based on different types of vulnerabilities, such as SQL injection, cross-site scripting, or buffer overflow.
+
+2. Guide the students through setting up their virtual network environment in VMware Workstation. Ensure that each group's Kali Linux virtual machine is connected to their assigned Ubuntu server virtual machine.
+
+3. Instruct students to use a network scanning tool like Nmap on their Kali Linux virtual machine to discover open ports and services on their target Ubuntu server.
+
+4. Once students have identified potential vulnerabilities, have them research and choose an appropriate penetration testing tool or exploit from the Metasploit framework or other resources.
+
+5. Guide students through the process of configuring and executing the selected exploit against their target system.
+
+6. If the exploit is successful, encourage students to explore the target system, documenting their steps and any sensitive information they find.
+
+7. Throughout the lab exercise, remind students to follow safety guidelines and ethical practices, such as not attempting any unauthorized access or causing damage to the systems.
+
+8. Allow students to collaborate and share their experiences as they progress through the lab, but ensure that they complete their own work for their unique scenarios.
+
+9. Provide support and guidance to students as they work through the lab exercise, answering any questions or helping troubleshoot issues as they arise.
+
+10. Towards the end of the lab, bring the class together for a group discussion on their findings and experiences, allowing each group to present their unique scenario and the steps they took to complete the exercise.
+
+Tips for guiding students:
+
+- Encourage students to think critically and apply their understanding of network penetration testing concepts to solve their assigned scenarios.
+- Be prepared to provide additional resources or recommendations for students who may struggle with configuring their environments or finding the right exploit.
+- Ensure that students are adhering to ethical practices and not attempting any unauthorized access or causing damage to the systems.
+- Facilitate collaboration and discussion among students, as sharing experiences can help deepen their understanding of the concepts being taught.
+- Be prepared to address any technical issues that may arise during the lab exercise, such as problems with the virtual machines or networking configurations.

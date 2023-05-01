@@ -1,0 +1,61 @@
+LESSON 4 LAB REPORT TEMPLATE
+
+[Student Name]:
+[Date]:
+[Lesson Name: Lesson 4 - Network Vulnerability Scanning]
+
+Introduction:
+Briefly describe the purpose of this lab and the tasks you will be performing.
+
+Step-by-Step Procedure:
+
+1. Lab Environment Setup
+   - Configure and verify the network settings for Kali Linux and Ubuntu Server VMs
+   [Insert a screenshot of the network settings for both VMs here]
+
+2. Installing OpenVAS on Kali Linux VM
+   - Install and configure OpenVAS
+   [Insert a screenshot of the successful installation and setup here]
+
+3. Creating a Target for Scanning
+   - Create a target for the Ubuntu Server VM
+   [Insert a screenshot of the target configuration in OpenVAS here]
+
+4. Running the Initial Vulnerability Scan
+   - Perform the initial vulnerability scan
+   [Insert a screenshot of the scan in progress here]
+
+5. Analyzing Scan Results
+   - Review and analyze the results of the initial scan
+   [Insert a screenshot of the scan results here]
+
+6. Implementing Remediation Actions
+   - Implement appropriate remediation actions for the discovered vulnerabilities
+   [Insert screenshots of the remediation actions here]
+
+7. Verification Scan
+   - Perform a verification scan to confirm the success of the remediation actions
+   [Insert a screenshot of the verification scan in progress here]
+
+8. Analyzing Verification Scan Results
+   - Review and analyze the results of the verification scan
+   [Insert a screenshot of the verification scan results here]
+
+Questions:
+
+1. What were the three most critical vulnerabilities discovered in the initial scan?
+   [Type your answer here]
+
+2. Which remediation actions did you implement for the discovered vulnerabilities?
+   [Type your answer here]
+
+3. Were all vulnerabilities successfully addressed in the verification scan? If not, which ones remained and why?
+   [Type your answer here]
+
+4. What are some best practices to consider when implementing vulnerability scanning in a real-world environment?
+   [Type your answer here]
+
+5. How can you prioritize vulnerabilities based on their risk level and impact on the organization?
+   [Type your answer here]
+
+Remember to save your completed lab report as a Microsoft Word document and submit it according to your instructor's guidelines.

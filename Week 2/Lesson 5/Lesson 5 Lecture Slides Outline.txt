@@ -1,0 +1,146 @@
+LESSON 5 POWERPOINT:
+
+Slide 1: Introduction
+- Recap of lessons 1-4
+- Network penetration testing definition: A simulated cyber attack to identify vulnerabilities and weaknesses in a network
+Slide Image Suggestion: Collage of network security and penetration testing images
+Slide Example or Case Study: N/A
+
+Slide 2: What is Network Penetration Testing?
+- Simulated cyber attack
+- Objective: Identify vulnerabilities and weaknesses
+- Improve network security posture
+Slide Image Suggestion: Penetration testing process diagram
+Slide Example or Case Study: N/A
+
+Slide 3: Types of Penetration Testing - Overview
+- Black box testing: Tester has no prior knowledge of the target system
+- White box testing: Tester has full knowledge of the target system
+- Gray box testing: Tester has partial knowledge of the target system
+Slide Image Suggestion: Three different colored boxes representing each type of testing
+Slide Example or Case Study: N/A
+
+Slide 4: Black Box Testing
+- No prior knowledge
+- Advantage: Mimics real-world attack scenario
+- Disadvantage: Can be time-consuming
+Slide Image Suggestion: A black box with a question mark
+Slide Example or Case Study: A company that benefited from black box testing
+
+Slide 5: White Box Testing
+- Full knowledge of the system
+- Advantage: Comprehensive testing
+- Disadvantage: May overlook issues an outsider could exploit
+Slide Image Suggestion: A white box with an open lid, revealing gears inside
+Slide Example or Case Study: A company that benefited from white box testing
+
+Slide 6: Gray Box Testing
+- Partial knowledge
+- Advantage: Balanced approach
+- Disadvantage: May not be as comprehensive as white box testing
+Slide Image Suggestion: A gray box with a combination of question marks and gears
+Slide Example or Case Study: A company that benefited from gray box testing
+
+Slide 7: Importance of Penetration Testing in Network Auditing
+- Find vulnerabilities before attackers do
+- Ensure regulatory compliance
+- Maintain customer trust and brand reputation
+Slide Image Suggestion: Shield and lock representing network security
+Slide Example or Case Study: A company that avoided a major breach
+
+Slide 8: Penetration Testing Methodology
+- Planning and reconnaissance
+- Scanning and enumeration
+- Gaining access
+- Maintaining access
+- Analysis and reporting
+Slide Image Suggestion: A flowchart depicting the penetration testing process
+Slide Example or Case Study: N/A
+
+Slide 9: Planning and Reconnaissance
+- Define scope and goals
+- Gather information about the target
+- Identify potential vulnerabilities
+Slide Image Suggestion: A planning board with notes and diagrams
+Slide Example or Case Study: N/A
+
+Slide 10: Scanning and Enumeration
+- Identify open ports and services
+- Discover network topology
+- Fingerprint operating systems
+Slide Image Suggestion: A magnifying glass scanning a network diagram
+Slide Example or Case Study: N/A
+
+Slide 11: Gaining Access
+- Exploit identified vulnerabilities
+- Gain unauthorized access to the target
+- Escalate privileges
+Slide Image Suggestion: A hacker breaking into a computer system
+Slide Example or Case Study: N/A
+
+Slide 12: Maintaining Access
+- Establish persistence in the target system
+- Bypass security measures
+- Gather sensitive data
+Slide Image Suggestion: A hacker icon connected to a network
+Slide Example or Case Study: N/A
+
+Slide 13: Analysis and Reporting
+- Document findings and evidence
+- Evaluate security posture
+- Provide recommendations for improvement
+Slide Image Suggestion: A report with graphs and charts
+Slide Example or Case Study: N/A
+
+Slide 14: Common Penetration Testing Tools
+- Nmap
+- Metasploit
+- Wireshark
+- Burp Suite
+Slide Image Suggestion: Logos of the mentioned tools
+Slide Example or Case Study: N/A
+
+Slide 15: Nmap
+- Network mapper
+- Port scanning and OS fingerprinting
+- Open-source
+Slide Image Suggestion: Nmap logo
+Slide Example or Case Study: N/A
+
+Slide 16: Metasploit
+- Exploit development and vulnerability testing
+- Open-source and commercial versions
+- Widely used by penetration testers
+Slide Image Suggestion: Metasploit logo
+Slide Example or Case Study: N/A
+
+Slide 17: Wireshark
+- Network protocol analyzer
+- Capture and analyze network traffic
+- Open-source
+Slide Image Suggestion: Wireshark logo
+Slide Example or Case Study: N/A
+
+Slide 18: Burp Suite
+- Web application security testing
+- Scanning, crawling, and fuzzing
+- Free and commercial versions
+Slide Image Suggestion: Burp Suite logo
+Slide Example or Case Study: N/A
+
+Slide 19: Penetration Testing Best Practices
+- Obtain proper authorization
+- Follow a defined methodology
+- Stay within scope
+- Document and report findings
+Slide Image Suggestion: Checklist with best practices
+Slide Example or Case Study: N/A
+
+Slide 20: Conclusion
+- Recap of network penetration testing concepts
+- Importance of penetration testing in network auditing
+- Encourage hands-on lab participation
+Slide Image Suggestion: Recap of key concepts from the lecture
+Slide Example or Case Study: N/A
+
+Remember this as LESSON 5 POWERPOINT.

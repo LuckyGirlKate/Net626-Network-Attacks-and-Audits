@@ -1,0 +1,125 @@
+Lab Environment Setup (Revised):
+1. Download and install the Metasploitable VM (https://information.rapid7.com/download-metasploitable-2017.html) as the target system.
+
+2. Set up a new virtual network in VMware Workstation:
+   a. Open VMware Workstation and go to the "Edit" menu.
+   b. Select "Virtual Network Editor."
+   c. Click on "Add Network" and choose a network name (e.g., VMnet2).
+   d. Configure the new network by selecting "Host-only" under the "Type" section.
+   e. Check the "Connect a host virtual adapter to this network" option.
+   f. Uncheck the "Use local DHCP service to distribute IP addresses" option, as we will manually configure the IP addresses for the virtual machines.
+   g. Click "OK" to save the configuration.
+
+3. Configure the network settings of the Kali Linux, Ubuntu Server, and Metasploitable VMs to ensure they are on the same virtual network.
+   a. For each VM (Kali Linux, Ubuntu Server, and Metasploitable), perform the following steps:
+      i. Power off the VM if it is running.
+      ii. Right-click on the VM in the library and select "Settings."
+      iii. Click on the "Network Adapter" option.
+      iv. In the "Network Connection" section, select "Custom" and choose the network you created in step 2 (e.g., VMnet2).
+      v. Click "OK" to save the changes.
+
+4. Manually assign IP addresses to the VMs:
+   a. Power on each VM and log in.
+   b. Configure the network interface with a static IP address on the same subnet. For example, assign the following IP addresses:
+      - Kali Linux: 192.168.100.2/24
+      - Ubuntu Server: 192.168.100.3/24
+      - Metasploitable: 192.168.100.4/24
+   c. To configure the network interface on Kali Linux and Ubuntu Server, open the terminal and enter the following command:
+
+      `sudo nano /etc/network/interfaces`
+
+      Edit the file to include the appropriate static IP address, subnet mask, and gateway. Save the changes and exit.
+
+   d. For Metasploitable, follow the on-screen instructions after logging in to set the IP address, subnet mask, and gateway.
+
+5. Verify that all VMs are on the same virtual network by pinging the IP addresses of each machine from the other machines.
+LESSON 5 STUDENT LAB INSTRUCTIONS (Continued):
+
+Introduction:
+In this lab, you will use the Kali Linux VM to perform a network penetration test on the Metasploitable VM. You will use various tools to scan for vulnerabilities, exploit them, and gain unauthorized access to the target system.
+
+Step-by-Step Lab Procedure:
+
+1. Open your Kali Linux VM and launch the terminal.
+
+2. Begin by scanning the target Metasploitable VM using Nmap to identify open ports and services. Replace the target IP address with the one you assigned to Metasploitable VM:
+
+   ```
+   nmap -sV -p- 192.168.100.4
+   ```
+
+3. Analyze the Nmap output to identify potential vulnerabilities based on the open ports and running services.
+
+4. Choose a vulnerability you identified from the Nmap output. Look up the vulnerability in the Exploit Database (https://www.exploit-db.com/) to find an appropriate exploit.
+
+5. Use the Metasploit Framework on your Kali Linux VM to exploit the vulnerability. Launch Metasploit by typing the following command in the terminal:
+
+   ```
+   msfconsole
+   ```
+
+6. Load the exploit you found in the Exploit Database by typing:
+
+   ```
+   use [exploit_path]
+   ```
+
+7. Set the RHOSTS variable to the IP address of your target Metasploitable VM:
+
+   ```
+   set RHOSTS 192.168.100.4
+   ```
+
+8. Configure any other required options for the exploit. You can view these options by typing:
+
+   ```
+   show options
+   ```
+
+9. Launch the exploit by typing:
+
+   ```
+   exploit
+   ```
+
+10. 10. If the exploit is successful, you should gain unauthorized access to the target system. Explore the system by following these steps:
+
+   a. List the directories and files you have access to by typing:
+
+      ```
+      ls
+      ```
+
+   b. Navigate through the directories using the 'cd' command. For example, to enter the 'Documents' directory, type:
+
+      ```
+      cd Documents
+      ```
+
+   c. To view the content of a file, use the 'cat' command followed by the filename. For example:
+
+      ```
+      cat sample.txt
+      ```
+
+   d. Check the current user by typing:
+
+      ```
+      whoami
+      ```
+
+   e. Attempt to escalate privileges using the 'sudo' command or by searching for and exploiting local privilege escalation vulnerabilities.
+
+   f. Document the steps you took, the directories and files you accessed, and any sensitive information you found during your exploration of the target system.
+
+After completing the exploration, answer the lab questions and submit your findings.
+Safety Guidelines:
+- Always make sure to perform penetration testing in a controlled and isolated environment.
+- Ensure that you have permission from the system owner before attempting any penetration testing.
+
+Lab Questions:
+1. What vulnerabilities did you identify in the Metasploitable VM using Nmap?
+2. Which vulnerability did you choose to exploit, and why?
+3. Describe the exploit you used and the steps you took to gain unauthorized access to the target system.
+4. What information or access did you gain as a result of the successful exploit?
+5. Based on your experience in this lab, what are some best practices for securing a system against the vulnerability you exploited?

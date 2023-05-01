@@ -1,0 +1,84 @@
+LESSON 4 QUIZ
+
+1. What type of vulnerability scanning involves directly interacting with target systems to identify vulnerabilities?
+
+A. Passive scanning
+B. Active scanning
+C. Agent-based scanning
+D. Cloud-based scanning
+
+2. Which type of vulnerability scanning monitors network traffic without directly interacting with target systems?
+
+A. Passive scanning
+B. Active scanning
+C. Agent-based scanning
+D. Cloud-based scanning
+
+3. What is a primary advantage of using agent-based vulnerability scanning?
+
+A. Non-intrusive
+B. Scalable and efficient
+C. Difficult to detect by security systems
+D. Accessible from any location
+
+4. In the context of vulnerability scanning, what is a false positive?
+
+A. A real vulnerability that is not detected
+B. An incorrect identification of a vulnerability that does not actually exist
+C. A vulnerability that has already been patched
+D. A vulnerability that is discovered but does not pose a significant risk
+
+5. What is the main goal of patch management in the context of cybersecurity?
+
+A. Identifying new vulnerabilities
+B. Ensuring compliance with industry regulations
+C. Installing and verifying software updates to address vulnerabilities
+D. Monitoring network traffic for signs of malicious activity
+
+6. Which of the following is NOT a primary motivation for network vulnerability scanning?
+
+A. Identifying weaknesses in network infrastructure
+B. Ensuring compliance with security policies and regulations
+C. Evaluating the effectiveness of existing security measures
+D. Increasing network bandwidth
+
+7. What is the purpose of network segmentation in relation to cybersecurity?
+
+A. To improve network performance
+B. To increase the number of IP addresses available
+C. To simplify network management
+D. To improve security by dividing a network into smaller subnetworks
+
+8. What type of system monitors network traffic for signs of malicious activity or policy violations?
+
+A. Intrusion Detection System (IDS)
+B. Security Information and Event Management (SIEM)
+C. Firewall
+D. Antivirus software
+
+9. What is the main purpose of a penetration test?
+
+A. To evaluate the effectiveness of security measures by simulating attacks
+B. To monitor network traffic for signs of malicious activity
+C. To install and verify software updates to address vulnerabilities
+D. To ensure compliance with industry-specific regulations and standards
+
+10. What is the primary goal of a risk assessment in the context of cybersecurity?
+
+A. To identify, analyze, and evaluate potential risks and vulnerabilities
+B. To monitor network traffic for signs of malicious activity
+C. To install and verify software updates to address vulnerabilities
+D. To ensure compliance with industry-specific regulations and standards
+
+Answer Key:
+
+1. B
+2. A
+3. B
+4. B
+5. C
+6. D
+7. D
+8. A
+9. A
+10. A
